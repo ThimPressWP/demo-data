@@ -3,25 +3,25 @@
     "title": "Demo Life Coaching",
     "demo_url": "https:\/\/coaching.thimpress.com",
     "thumbnail_url": "https:\/\/updates.thimpress.com\/wp-content\/uploads\/2017\/08\/coaching-01.jpg",
-    "category": "Bussiness"
+    "category": "Life"
   },
   "demo-02": {
     "title": "Demo Health Coaching 1",
     "demo_url": "https:\/\/coaching.thimpress.com\/demo-health-coaching\/",
     "thumbnail_url": "https:\/\/updates.thimpress.com\/wp-content\/uploads\/2017\/08\/coaching-02.jpg",
-    "category": "Health"
+    "category": "Life"
   },
   "demo-03": {
     "title": "Demo Health Coaching 2",
     "demo_url": "https:\/\/coaching.thimpress.com\/demo-health-coaching-2\/",
     "thumbnail_url": "https:\/\/updates.thimpress.com\/wp-content\/uploads\/2017\/08\/coaching-03.jpg",
-    "category": "Health"
+    "category": "Life"
   },
   "demo-04": {
     "title": "Demo Health Coaching 3",
     "demo_url": "https:\/\/coaching.thimpress.com\/demo-health-coaching-3\/",
     "thumbnail_url": "https:\/\/updates.thimpress.com\/wp-content\/uploads\/2017\/08\/coaching-04.jpg",
-    "category": "Health"
+    "category": "Life"
   },
   "demo-effective": {
     "title": "Demo Effective",
@@ -51,7 +51,7 @@
     "title": "Demo Gym",
     "demo_url": "https:\/\/coaching.thimpress.com\/demo-gym-coaching\/",
     "thumbnail_url": "https:\/\/updates.thimpress.com\/wp-content\/uploads\/2019\/05\/coaching-gym.jpg",
-    "category": "Health"
+    "category": "Gym & Fitness"
   },
   "demo-rtl": {
     "title": "Demo RTL",
