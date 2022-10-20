@@ -1,1 +1,62 @@
-{"demo-01":{"title":"Demo Life Coaching","demo_url":"https:\/\/coaching.thimpress.com","thumbnail_url":"https:\/\/updates.thimpress.com\/wp-content\/uploads\/2017\/08\/coaching-01.jpg","category":"Bussiness"},"demo-02":{"title":"Demo Health Coaching 1","demo_url":"https:\/\/coaching.thimpress.com\/demo-health-coaching\/","thumbnail_url":"https:\/\/updates.thimpress.com\/wp-content\/uploads\/2017\/08\/coaching-02.jpg","category":"Health"},"demo-03":{"title":"Demo Health Coaching 2","demo_url":"https:\/\/coaching.thimpress.com\/demo-health-coaching-2\/","thumbnail_url":"https:\/\/updates.thimpress.com\/wp-content\/uploads\/2017\/08\/coaching-03.jpg","category":"Health"},"demo-04":{"title":"Demo Health Coaching 3","demo_url":"https:\/\/coaching.thimpress.com\/demo-health-coaching-3\/","thumbnail_url":"https:\/\/updates.thimpress.com\/wp-content\/uploads\/2017\/08\/coaching-04.jpg","category":"Health"},"demo-effective":{"title":"Demo Effective","demo_url":"https:\/\/coaching.thimpress.com\/demo-effective-coaching\/","thumbnail_url":"https:\/\/updates.thimpress.com\/wp-content\/uploads\/2018\/07\/coaching-effective-2.jpg","category":"Bussiness"},"demo-05":{"title":"Demo Instructor","demo_url":"https:\/\/coaching.thimpress.com\/demo-instructor\/","thumbnail_url":"https:\/\/updates.thimpress.com\/wp-content\/uploads\/2019\/10\/coaching-home-instructor.jpg","category":"Bussiness"},"demo-therapist":{"title":"Demo Therapist","demo_url":"https:\/\/coaching.thimpress.com\/demo-therapist\/","thumbnail_url":"https:\/\/updates.thimpress.com\/wp-content\/uploads\/2019\/05\/coaching-therapist.jpg","category":"Bussiness"},"demo-business":{"title":"Demo Business","demo_url":"https:\/\/coaching.thimpress.com\/demo-bussiness\/","thumbnail_url":"https:\/\/updates.thimpress.com\/wp-content\/uploads\/2017\/08\/demo_bussiness.jpg","category":"Bussiness"},"demo-gym":{"title":"Demo Gym","demo_url":"https:\/\/coaching.thimpress.com\/demo-gym-coaching\/","thumbnail_url":"https:\/\/updates.thimpress.com\/wp-content\/uploads\/2019\/05\/coaching-gym.jpg","category":"Health"},"demo-rtl":{"title":"Demo RTL","demo_url":"https:\/\/coaching.thimpress.com\/demo-rtl\/","thumbnail_url":"https:\/\/updates.thimpress.com\/wp-content\/uploads\/2018\/06\/coaching-rtl.jpg","category":"Rtl"}}
+{
+  "demo-01": {
+    "title": "Demo Life Coaching",
+    "demo_url": "https:\/\/coaching.thimpress.com",
+    "thumbnail_url": "https:\/\/updates.thimpress.com\/wp-content\/uploads\/2017\/08\/coaching-01.jpg",
+    "category": "Bussiness"
+  },
+  "demo-02": {
+    "title": "Demo Health Coaching 1",
+    "demo_url": "https:\/\/coaching.thimpress.com\/demo-health-coaching\/",
+    "thumbnail_url": "https:\/\/updates.thimpress.com\/wp-content\/uploads\/2017\/08\/coaching-02.jpg",
+    "category": "Health"
+  },
+  "demo-03": {
+    "title": "Demo Health Coaching 2",
+    "demo_url": "https:\/\/coaching.thimpress.com\/demo-health-coaching-2\/",
+    "thumbnail_url": "https:\/\/updates.thimpress.com\/wp-content\/uploads\/2017\/08\/coaching-03.jpg",
+    "category": "Health"
+  },
+  "demo-04": {
+    "title": "Demo Health Coaching 3",
+    "demo_url": "https:\/\/coaching.thimpress.com\/demo-health-coaching-3\/",
+    "thumbnail_url": "https:\/\/updates.thimpress.com\/wp-content\/uploads\/2017\/08\/coaching-04.jpg",
+    "category": "Health"
+  },
+  "demo-effective": {
+    "title": "Demo Effective",
+    "demo_url": "https:\/\/coaching.thimpress.com\/demo-effective-coaching\/",
+    "thumbnail_url": "https:\/\/updates.thimpress.com\/wp-content\/uploads\/2018\/07\/coaching-effective-2.jpg",
+    "category": "Bussiness"
+  },
+  "demo-05": {
+    "title": "Demo Instructor",
+    "demo_url": "https:\/\/coaching.thimpress.com\/demo-instructor\/",
+    "thumbnail_url": "https:\/\/updates.thimpress.com\/wp-content\/uploads\/2019\/10\/coaching-home-instructor.jpg",
+    "category": "Bussiness"
+  },
+  "demo-therapist": {
+    "title": "Demo Therapist",
+    "demo_url": "https:\/\/coaching.thimpress.com\/demo-therapist\/",
+    "thumbnail_url": "https:\/\/updates.thimpress.com\/wp-content\/uploads\/2019\/05\/coaching-therapist.jpg",
+    "category": "Bussiness"
+  },
+  "demo-business": {
+    "title": "Demo Business",
+    "demo_url": "https:\/\/coaching.thimpress.com\/demo-bussiness\/",
+    "thumbnail_url": "https:\/\/updates.thimpress.com\/wp-content\/uploads\/2017\/08\/demo_bussiness.jpg",
+    "category": "Bussiness"
+  },
+  "demo-gym": {
+    "title": "Demo Gym",
+    "demo_url": "https:\/\/coaching.thimpress.com\/demo-gym-coaching\/",
+    "thumbnail_url": "https:\/\/updates.thimpress.com\/wp-content\/uploads\/2019\/05\/coaching-gym.jpg",
+    "category": "Health"
+  },
+  "demo-rtl": {
+    "title": "Demo RTL",
+    "demo_url": "https:\/\/coaching.thimpress.com\/demo-rtl\/",
+    "thumbnail_url": "https:\/\/updates.thimpress.com\/wp-content\/uploads\/2018\/06\/coaching-rtl.jpg",
+    "category": "RTL"
+  }
+}
