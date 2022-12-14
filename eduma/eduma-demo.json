@@ -29,18 +29,26 @@
     "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/eduma\/images\/demo-online-school.jpg",
     "category": "school"
   },
-  "demo-university": {
-    "title": "Demo University",
-    "demo_url": "https:\/\/eduma.thimpress.com\/demo-university\/",
-    "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/eduma\/images\/demo-university.jpg",
+  "demo-university-3": {
+    "title": "Demo Ivy League",
+    "demo_url": "https:\/\/eduma.thimpress.com\/demo-ivy-league",
+    "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/eduma\/images\/demo-ivy-league.jpg",
     "category": "university"
   },
+
   "demo-edume": {
     "title": "Demo Udemy",
     "demo_url": "https:\/\/eduma.thimpress.com\/demo-udemy\/",
     "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/eduma\/images\/demo-udemy.jpg",
     "category": "academy"
   },
+  "demo-university-4": {
+    "title": "Demo Stanford",
+    "demo_url": "https:\/\/eduma.thimpress.com\/demo-stanford",
+    "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/eduma\/images\/demo-stanford.jpg",
+    "category": "university"
+  },
+
   "demo-grad-school": {
     "title": "Demo Grad School",
     "demo_url": "https:\/\/eduma.thimpress.com\/demo-grad-school\/",
@@ -59,12 +67,14 @@
     "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/eduma\/images\/demo-courses-hub.jpg",
     "category": "academy"
   },
-  "demo-university-2": {
-    "title": "Demo Modern University",
-    "demo_url": "https:\/\/eduma.thimpress.com\/demo-modern-university",
-    "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/eduma\/images\/demo-modern-university.jpg",
+  "demo-university": {
+    "title": "Demo University",
+    "demo_url": "https:\/\/eduma.thimpress.com\/demo-university\/",
+    "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/eduma\/images\/demo-university.jpg",
     "category": "university"
   },
+
+
   "demo-tech-camp": {
     "title": "Demo Tech Camp",
     "demo_url": "https:\/\/eduma.thimpress.com\/demo-tech-camp\/",
@@ -89,12 +99,7 @@
     "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/eduma\/images\/demo-rtl.jpg",
     "category": "multi-Language"
   },
-  "demo-university-3": {
-    "title": "Demo Ivy League",
-    "demo_url": "https:\/\/eduma.thimpress.com\/demo-ivy-league",
-    "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/eduma\/images\/demo-ivy-league.jpg",
-    "category": "university"
-  },
+
   "demo-one-instructor": {
     "title": "Demo One Instructor",
     "demo_url": "https:\/\/eduma.thimpress.com\/demo-one-instructor\/",
@@ -126,10 +131,10 @@
     "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/eduma\/images\/demo-react.jpg",
     "category": "technology"
   },
-  "demo-university-4": {
-    "title": "Demo Stanford",
-    "demo_url": "https:\/\/eduma.thimpress.com\/demo-stanford",
-    "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/eduma\/images\/demo-stanford.jpg",
+  "demo-university-2": {
+    "title": "Demo Modern University",
+    "demo_url": "https:\/\/eduma.thimpress.com\/demo-modern-university",
+    "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/eduma\/images\/demo-modern-university.jpg",
     "category": "university"
   },
   "demo-one-course": {
