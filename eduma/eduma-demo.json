@@ -81,19 +81,19 @@
   },
   "demo-university-home-1": {
     "title": "University - Home 1",
-    "demo_url": "https:\/\/eduma.thimpress.com\/university-home-1\/",
+    "demo_url": "https:\/\/eduma.thimpress.com\/university\/home-1\/",
     "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/eduma\/images\/demo-university-home-1.jpg",
     "category": "university"
   },
   "demo-university-home-2": {
     "title": "University - Home 2",
-    "demo_url": "https:\/\/eduma.thimpress.com\/university-home-2\/",
+    "demo_url": "https:\/\/eduma.thimpress.com\/university\/home-2\/",
     "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/eduma\/images\/demo-university-home-2.jpg",
     "category": "university"
   },
   "demo-university-home-3": {
     "title": "University - Home 3",
-    "demo_url": "https:\/\/eduma.thimpress.com\/university-home-3\/",
+    "demo_url": "https:\/\/eduma.thimpress.com\/university\/home-3\/",
     "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/eduma\/images\/demo-university-home-3.jpg",
     "category": "university"
   },
