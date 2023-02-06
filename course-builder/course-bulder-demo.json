@@ -1,7 +1,7 @@
 {
     "demo-edu-institute": {
         "title": "Demo Edu Institute",
-        "demo_url": "http:\/\/wordpresslms.thimpress.com\/demo-corporate-learning\/",
+        "demo_url": "http:\/\/wordpresslms.thimpress.com\/demo-institute\/",
         "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/course-builder\/demos\/assets\/demo-edu-institute\/screenshot.png"
     },
     "demo-coursify": {
