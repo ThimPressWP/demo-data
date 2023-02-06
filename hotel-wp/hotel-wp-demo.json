@@ -3,24 +3,24 @@
         "title": "Demo 01",
         "thumbnail_url": "https:\/\/updates.thimpress.com\/wp-content\/uploads\/2017\/07\/hotelwp-demo-01.jpg",
         "demo_url": "http:\/\/luxstay.thimpress.com\/",
-        "category": "all"
+        "category": "popular"
     },
     "demo-02": {
         "title": "Demo 02",
         "thumbnail_url": "https:\/\/updates.thimpress.com\/wp-content\/uploads\/2017\/07\/hotelwp-demo-02.jpg",
         "demo_url": "http:\/\/luxstay.thimpress.com\/demo-2\/",
-        "category": "all"
+        "category": "popular"
     },
     "demo-03": {
         "title": "Demo 03",
         "thumbnail_url": "https:\/\/updates.thimpress.com\/wp-content\/uploads\/2017\/07\/hotelwp-demo-03.jpg",
         "demo_url": "http:\/\/luxstay.thimpress.com\/demo-3\/",
-        "category": "all"
+        "category": "popular"
     },
     "demo-rtl": {
         "title": "Demo RTL",
         "thumbnail_url": "https:\/\/updates.thimpress.com\/wp-content\/uploads\/2017\/07\/hotelwp-demo-rtl.jpg",
         "demo_url": "http:\/\/luxstay.thimpress.com\/demo-rtl\/",
-        "category": "all"
+        "category": "popular"
     }
 }
