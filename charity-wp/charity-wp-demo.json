@@ -1,0 +1,52 @@
+{
+    "demo-01": {
+        "title": "Demo Better Life",
+        "thumbnail_url": "https:\/\/updates.thimpress.com\/wp-content\/uploads\/2018\/03\/charitywp-demo-01.jpg",
+        "demo_url": "https:\/\/charitywp.thimpress.com\/better-life\/"
+    },
+    "demo-02": {
+        "title": "Demo Disater",
+        "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/charity-wp\/preview\/demo-disater.jpg",
+        "demo_url": "https:\/\/charitywp.thimpress.com\/disaster\/"
+    },
+    "demo-03": {
+        "title": "Demo Medical",
+        "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/charity-wp\/preview\/demo-medical.jpg",
+        "demo_url": "https:\/\/charitywp.thimpress.com\/medical\/"
+    },
+    "demo-04": {
+        "title": "Demo Free Education",
+        "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/charity-wp\/preview\/demo-free-education.jpg",
+        "demo_url": "https:\/\/charitywp.thimpress.com\/free-education\/"
+    },
+    "demo-05": {
+        "title": "Demo Fund Raising",
+        "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/charity-wp\/preview\/demo-fund-raising.jpg",
+        "demo_url": "https:\/\/charitywp.thimpress.com\/fund-raising\/"
+    },
+    "demo-06": {
+        "title": "Demo Poor Children",
+        "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/charity-wp\/preview\/demo-poor-children.jpg",
+        "demo_url": "https:\/\/charitywp.thimpress.com\/poor-children\/"
+    },
+    "demo-07": {
+        "title": "Demo Clean Water",
+        "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/charity-wp\/preview\/demo-clean-water.jpg",
+        "demo_url": "https:\/\/charitywp.thimpress.com\/clean-water\/"
+    },
+    "demo-08": {
+        "title": "Demo HomeLess",
+        "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/charity-wp\/preview\/demo-homeless.jpg",
+        "demo_url": "https:\/\/charitywp.thimpress.com\/homeless\/"
+    },
+    "demo-09": {
+        "title": "Demo Church",
+        "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/charity-wp\/preview\/demo-church.jpg",
+        "demo_url": "https:\/\/charitywp.thimpress.com\/church\/"
+    },
+    "demo-10": {
+        "title": "Demo Political",
+        "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/charity-wp\/preview\/demo-political.jpg",
+        "demo_url": "https:\/\/charitywp.thimpress.com\/political\/"
+    }
+}
