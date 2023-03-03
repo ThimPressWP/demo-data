@@ -38,5 +38,11 @@
         "title": "Demo 8",
         "demo_url": "https:\/\/realpress.thimpress.com\/demo-8",
         "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/realpress\/images\/demo-08.png"
+    },
+    "demo-rtl": {
+        "title": "Demo RTL",
+        "demo_url": "https:\/\/realpress.thimpress.com\/demo-rtl",
+        "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/realpress\/images\/demo-rtl.png",
+        "category": "RTL"
     }
 }
