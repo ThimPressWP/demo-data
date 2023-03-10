@@ -44,6 +44,13 @@
         "demo_url": "https:\/\/realpress.thimpress.com\/demo-2/home-2",
         "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/realpress\/images\/demo-09.png"
     },
+    "demo-onepage": {
+        "title": "Demo One Property",
+        "demo_url": "https:\/\/realpress.thimpress.com\/one-property",
+        "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/realpress\/images\/demo-rtl.png",
+        "category": "One Page"
+    },
+
     "demo-rtl": {
         "title": "Demo RTL",
         "demo_url": "https:\/\/realpress.thimpress.com\/demo-rtl",
