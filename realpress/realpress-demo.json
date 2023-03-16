@@ -46,7 +46,7 @@
     },
     "demo-onep-roperty": {
         "title": "Demo One Property",
-        "demo_url": "https:\/\/realpress.thimpress.com\/one-property",
+        "demo_url": "https:\/\/realpress.thimpress.com\/single-property",
         "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/realpress\/images\/demo-one-property.png",
         "category": "One Page"
     },
