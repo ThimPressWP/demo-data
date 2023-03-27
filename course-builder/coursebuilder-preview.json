@@ -6,43 +6,43 @@
     },
     "demo-coursify": {
         "title": "Demo Coursify",
-        "demo_url": "http:\/\/corptrain.thimpress.com\/demo-coursify\/",
+        "demo_url": "http:\/\/coursebuilder.thimpress.com\/demo-coursify\/",
         "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/course-builder\/demos\/assets\/demo-coursify\/screenshot.png"
     },
     "demo-elearning-2": {
         "title": "Demo eLearning II",
-        "demo_url": "http:\/\/corptrain.thimpress.com\/demo-elearning-2\/",
+        "demo_url": "http:\/\/coursebuilder.thimpress.com\/demo-elearning-2\/",
         "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/course-builder\/demos\/assets\/demo-elearning-2\/screenshot.png"
     },
     "demo-single-instructor": {
         "title": "Demo Single Instructor",
-        "demo_url": "http:\/\/corptrain.thimpress.com\/demo-single-instructor\/",
+        "demo_url": "http:\/\/coursebuilder.thimpress.com\/demo-single-instructor\/",
         "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/course-builder\/demos\/assets\/demo-single-instructor\/screenshot.png"
     },
     "demo-test-prep": {
         "title": "Demo Test Prep",
-        "demo_url": "http:\/\/corptrain.thimpress.com\/demo-test-prep\/",
+        "demo_url": "http:\/\/coursebuilder.thimpress.com\/demo-test-prep\/",
         "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/course-builder\/demos\/assets\/demo-test-prep\/screenshot.png"
     },
     "demo-corporate-learning": {
         "title": "Demo Corporate Learning",
-        "demo_url": "http:\/\/corptrain.thimpress.com\/demo-corporate-learning\/",
+        "demo_url": "http:\/\/coursebuilder.thimpress.com\/demo-corporate-learning\/",
         "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/course-builder\/demos\/assets\/demo-corporate-learning\/screenshot.png"
     },
     "demo-rtl": {
         "title": "Demo RTL",
-        "demo_url": "http:\/\/corptrain.thimpress.com\/demo-rtl",
+        "demo_url": "http:\/\/coursebuilder.thimpress.com\/demo-rtl",
         "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/course-builder\/demos\/assets\/demo-rtl\/screenshot.png",
         "category": "RTL"
     },
     "demo-techcamps": {
         "title": "Demo Courses Tech Camps",
-        "demo_url": "http:\/\/corptrain.thimpress.com\/demo-techcamp\/",
+        "demo_url": "http:\/\/coursebuilder.thimpress.com\/demo-techcamp\/",
         "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/course-builder\/demos\/assets\/demo-techcamp\/screenshot.png"
     },
     "demo-kit": {
         "title": "Demo Courses Builder Kit",
-        "demo_url": "http:\/\/corptrain.thimpress.com\/demo-kit\/",
+        "demo_url": "http:\/\/coursebuilder.thimpress.com\/demo-kit\/",
         "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/course-builder\/demos\/assets\/demo-kit\/screenshot.png"
     }
 }
