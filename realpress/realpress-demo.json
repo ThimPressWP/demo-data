@@ -44,10 +44,17 @@
         "demo_url": "https:\/\/realpress.thimpress.com\/demo-2/home-2",
         "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/realpress\/images\/demo-09.png"
     },
-    "demo-onep-roperty": {
-        "title": "Demo One Property",
+    "demo-single-property": {
+        "title": "Demo Single Property",
         "demo_url": "https:\/\/realpress.thimpress.com\/single-property",
-        "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/realpress\/images\/demo-one-property.png",
+        "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/realpress\/images\/demo-single-property.png",
+        "category": "One Page"
+    },
+
+    "demo-single-agent": {
+        "title": "Demo Single Agent",
+        "demo_url": "https:\/\/realpress.thimpress.com\/single-agent",
+        "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/realpress\/images\/demo-single-agent.png",
         "category": "One Page"
     },
 
