@@ -31,7 +31,7 @@
   },
   "demo-university-3": {
     "title": "Demo Ivy League",
-    "demo_url": "https:\/\/eduma.thimpress.com\/demo-ivy-league",
+    "demo_url": "https:\/\/eduma.thimpress.com\/demo-ivy-league\/",
     "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/eduma\/images\/demo-ivy-league.jpg",
     "category": "university"
   },
@@ -44,7 +44,7 @@
   },
   "demo-university-4": {
     "title": "Demo Stanford",
-    "demo_url": "https:\/\/eduma.thimpress.com\/demo-stanford",
+    "demo_url": "https:\/\/eduma.thimpress.com\/demo-stanford\/",
     "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/eduma\/images\/demo-stanford.jpg",
     "category": "university"
   },
@@ -112,13 +112,13 @@
   },
   "demo-tutor-lms": {
     "title": "Demo Tutor lms",
-    "demo_url": "https:\/\/eduma.thimpress.com\/demo-tutor-lms",
+    "demo_url": "https:\/\/eduma.thimpress.com\/demo-tutor-lms\/",
     "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/eduma\/images\/demo-tutor-lms.jpg",
     "category": "popular"
   },
   "demo-rtl": {
     "title": "Demo RTL",
-    "demo_url": "https:\/\/eduma.thimpress.com\/demo-rtl",
+    "demo_url": "https:\/\/eduma.thimpress.com\/demo-rtl\/",
     "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/eduma\/images\/demo-rtl.jpg",
     "category": "multi-Language"
   },
@@ -156,7 +156,7 @@
   },
   "demo-university-2": {
     "title": "Demo Modern University",
-    "demo_url": "https:\/\/eduma.thimpress.com\/demo-modern-university",
+    "demo_url": "https:\/\/eduma.thimpress.com\/demo-modern-university\/",
     "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/eduma\/images\/demo-modern-university.jpg",
     "category": "university"
   },
