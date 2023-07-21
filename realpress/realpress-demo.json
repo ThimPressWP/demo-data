@@ -59,7 +59,7 @@
     },
 
     "demo-main": {
-        "title": "Demo RTL",
+        "title": "Demo Main",
         "demo_url": "https:\/\/realpress.thimpress.com\/demo-main",
         "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/realpress\/images\/demo-main.png",
         "category": "RTL"
