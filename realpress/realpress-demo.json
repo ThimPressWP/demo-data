@@ -1,4 +1,10 @@
 {
+    "demo-main": {
+        "title": "Demo Main",
+        "demo_url": "https:\/\/realpress.thimpress.com\/demo-main",
+        "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/realpress\/images\/demo-main.png",
+    },
+
     "demo-1": {
         "title": "Demo 1",
         "demo_url": "https:\/\/realpress.thimpress.com\/demo-1",
@@ -56,13 +62,6 @@
         "demo_url": "https:\/\/realpress.thimpress.com\/single-agent",
         "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/realpress\/images\/demo-single-agent.png",
         "category": "One Page"
-    },
-
-    "demo-main": {
-        "title": "Demo Main",
-        "demo_url": "https:\/\/realpress.thimpress.com\/demo-main",
-        "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/realpress\/images\/demo-main.png",
-        "category": "RTL"
     },
 
     "demo-rtl": {
