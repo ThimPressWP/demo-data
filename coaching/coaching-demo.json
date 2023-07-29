@@ -1,4 +1,10 @@
 {
+  "demo-business-2": {
+    "title": "Demo Business Coaching",
+    "demo_url": "https:\/\/coaching.thimpress.com\/business-coaching\/",
+    "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/coaching\/images\/demo-business-2.jpg",
+    "category": "Business"
+  },
   "demo-05": {
     "title": "Demo Instructor",
     "demo_url": "https:\/\/coaching.thimpress.com\/demo-instructor\/",
@@ -15,12 +21,6 @@
     "title": "Demo Business",
     "demo_url": "https:\/\/coaching.thimpress.com\/demo-bussiness\/",
     "thumbnail_url": "https:\/\/updates.thimpress.com\/wp-content\/uploads\/2017\/08\/demo_bussiness.jpg",
-    "category": "Business"
-  },
-  "demo-business-2": {
-    "title": "Demo Business Coaching",
-    "demo_url": "https:\/\/coaching.thimpress.com\/business-coaching\/",
-    "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/coaching\/images\/demo-business-2.jpg",
     "category": "Business"
   },
   "demo-therapist": {
