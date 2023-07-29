@@ -3,7 +3,7 @@
     "title": "Demo Instructor",
     "demo_url": "https:\/\/coaching.thimpress.com\/demo-instructor\/",
     "thumbnail_url": "https:\/\/updates.thimpress.com\/wp-content\/uploads\/2019\/10\/coaching-home-instructor.jpg",
-    "category": "Bussiness"
+    "category": "Business"
   },
   "demo-01": {
     "title": "Demo Life Coaching",
@@ -15,19 +15,25 @@
     "title": "Demo Business",
     "demo_url": "https:\/\/coaching.thimpress.com\/demo-bussiness\/",
     "thumbnail_url": "https:\/\/updates.thimpress.com\/wp-content\/uploads\/2017\/08\/demo_bussiness.jpg",
-    "category": "Bussiness"
+    "category": "Business"
+  },
+  "demo-business-2": {
+    "title": "Demo Business 2",
+    "demo_url": "https:\/\/coaching.thimpress.com\/demo-business-2\/",
+    "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/coaching\/images\/demo-business-2.jpg",
+    "category": "Business"
   },
   "demo-therapist": {
     "title": "Demo Therapist",
     "demo_url": "https:\/\/coaching.thimpress.com\/demo-therapist\/",
     "thumbnail_url": "https:\/\/updates.thimpress.com\/wp-content\/uploads\/2019\/05\/coaching-therapist.jpg",
-    "category": "Bussiness"
+    "category": "Business"
   },
   "demo-effective": {
     "title": "Demo Effective",
     "demo_url": "https:\/\/coaching.thimpress.com\/demo-effective-coaching\/",
     "thumbnail_url": "https:\/\/updates.thimpress.com\/wp-content\/uploads\/2018\/07\/coaching-effective-2.jpg",
-    "category": "Bussiness"
+    "category": "Business"
   },
   "demo-02": {
     "title": "Demo Health Coaching 1",
