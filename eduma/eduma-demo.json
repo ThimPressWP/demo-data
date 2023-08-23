@@ -74,25 +74,25 @@
     "category": "university"
   },
   "demo-university-home": {
-    "title": "University - New",
+    "title": "Demo University - New",
     "demo_url": "https:\/\/eduma.thimpress.com\/university\/",
     "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/eduma\/images\/demo-university-home.jpg",
     "category": "university"
   },
   "demo-university-home-1": {
-    "title": "University - Home 1",
+    "title": "Demo University - Home 1",
     "demo_url": "https:\/\/eduma.thimpress.com\/university\/home-1\/",
     "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/eduma\/images\/demo-university-home-1.jpg",
     "category": "university"
   },
   "demo-university-home-2": {
-    "title": "University - Home 2",
+    "title": "Demo University - Home 2",
     "demo_url": "https:\/\/eduma.thimpress.com\/university\/home-2\/",
     "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/eduma\/images\/demo-university-home-2.jpg",
     "category": "university"
   },
   "demo-university-home-3": {
-    "title": "University - Home 3",
+    "title": "Demo University - Home 3",
     "demo_url": "https:\/\/eduma.thimpress.com\/university\/home-3\/",
     "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/eduma\/images\/demo-university-home-3.jpg",
     "category": "university"
@@ -136,7 +136,7 @@
     "category": "popular"
   },
   "demo-wpml": {
-    "title": "Multilingual Eduma",
+    "title": "Demo Multilingual Eduma",
     "demo_url": "https:\/\/eduma.thimpress.com\/demo-wpml\/es\/",
     "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/eduma\/images\/demo-wpml.jpg",
     "category": "multi-Language"
