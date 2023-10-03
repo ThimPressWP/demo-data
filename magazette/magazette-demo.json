@@ -1,0 +1,50 @@
+{
+    "demo-mag": {
+      "title": "Demo Mag",
+      "demo_url": "http://creativemag.thimpress.com",
+      "thumbnail_url": "https://thimpresswp.github.io/demo-data/magazette/demos/screenshots/mag2.jpg",
+      "category": ""
+    },
+    "demo-lifestyle": {
+      "title": "Demo LifeStyle",
+      "demo_url": "http://creativemag.thimpress.com/demo-lifestyle/",
+      "thumbnail_url": "https://thimpresswp.github.io/demo-data/magazette/demos/screenshots/lifestyle.jpg",
+      "category": ""
+    },
+    "demo-travel": {
+      "title": "Demo Travel",
+      "demo_url": "http://creativemag.thimpress.com/demo-travel/",
+      "thumbnail_url": "https://thimpresswp.github.io/demo-data/magazette/demos/screenshots/travel.jpg",
+      "category": ""
+    },
+    "demo-autocar": {
+      "title": "Demo AutoCar",
+      "demo_url": "http://creativemag.thimpress.com/demo-autocar/",
+      "thumbnail_url": "https://thimpresswp.github.io/demo-data/magazette/demos/screenshots/autocar.jpg",
+      "category": ""
+    },
+    "demo-sport": {
+      "title": "Demo Sport",
+      "demo_url": "http://creativemag.thimpress.com/demo-sport/",
+      "thumbnail_url": "https://thimpresswp.github.io/demo-data/magazette/demos/screenshots/sport.jpg",
+      "category": ""
+    },
+    "demo-food": {
+      "title": "Demo Food",
+      "demo_url": "http://creativemag.thimpress.com/demo-food/",
+      "thumbnail_url": "https://thimpresswp.github.io/demo-data/magazette/demos/screenshots/food.jpg",
+      "category": ""
+    },
+    "demo-fashion": {
+      "title": "Demo Fashion",
+      "demo_url": "http://creativemag.thimpress.com/demo-fashion/",
+      "thumbnail_url": "https://thimpresswp.github.io/demo-data/magazette/demos/screenshots/fashion.jpg",
+      "category": ""
+    },
+    "demo-beauty": {
+      "title": "Demo Beauty",
+      "demo_url": "http://creativemag.thimpress.com/demo-beauty/",
+      "thumbnail_url": "https://thimpresswp.github.io/demo-data/magazette/demos/screenshots/beauty.jpg",
+      "category": ""
+    }
+  }
