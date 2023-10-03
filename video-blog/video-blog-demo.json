@@ -1,0 +1,22 @@
+{
+    "demo-01": {
+        "title": "Demo 01",
+        "thumbnail_url": "https:\/\/updates.thimpress.com\/wp-content\/uploads\/2019\/02\/vividly-1.jpg",
+        "demo_url": "http:\/\/video-blog.thimpress.com"
+    },
+    "demo-02": {
+        "title": "Demo 02",
+        "thumbnail_url": "https:\/\/updates.thimpress.com\/wp-content\/uploads\/2019\/02\/vividly-2.jpg",
+        "demo_url": "http:\/\/video-blog.thimpress.com\/demo-2\/"
+    },
+    "demo-03": {
+        "title": "Demo Director",
+        "thumbnail_url": "https:\/\/updates.thimpress.com\/wp-content\/uploads\/2019\/02\/vividly-3.jpg",
+        "demo_url": "http:\/\/video-blog.thimpress.com\/demo-3\/"
+    },
+    "demo-04": {
+        "title": "Beauty Vlogger",
+        "thumbnail_url": "https:\/\/updates.thimpress.com\/wp-content\/uploads\/2019\/02\/vividly-4.jpg",
+        "demo_url": "http:\/\/video-blog.thimpress.com\/demo-4\/"
+    }
+}
