@@ -1,0 +1,20 @@
+{
+    "demo-01": {
+      "title": "Demo 01",
+      "thumbnail_url": "https://updates.thimpress.com/wp-content/uploads/2018/05/home1.jpg",
+      "demo_url": "http://hairsalonwp.thimpress.com",
+      "category": ""
+    },
+    "demo-02": {
+      "title": "Demo 02",
+      "thumbnail_url": "https://updates.thimpress.com/wp-content/uploads/2018/05/home2.png",
+      "demo_url": "http://hairsalonwp.thimpress.com/demo-2",
+      "category": ""
+    },
+    "demo-03": {
+      "title": "Demo 03",
+      "thumbnail_url": "https://updates.thimpress.com/wp-content/uploads/2018/05/home3.jpg",
+      "demo_url": "http://hairsalonwp.thimpress.com/demo-3",
+      "category": ""
+    }
+  }

@@ -1,0 +1,74 @@
+{
+    "demo-1": {
+      "title": "Demo Full Option",
+      "thumbnail_url": "https://updates.thimpress.com/wp-content/uploads/2018/10/mag-demo-01.jpg",
+      "demo_url": "http://magwp.thimpress.com/",
+      "category": ""
+    },
+    "demo-9": {
+      "title": "Demo Fashion",
+      "thumbnail_url": "https://updates.thimpress.com/wp-content/uploads/2018/10/mag-demo-09.jpg",
+      "demo_url": "http://magwp.thimpress.com/demo-9/",
+      "category": ""
+    },
+    "demo-8": {
+      "title": "Demo Medium Blog",
+      "thumbnail_url": "https://updates.thimpress.com/wp-content/uploads/2018/10/mag-demo-08.jpg",
+      "demo_url": "http://magwp.thimpress.com/demo-8/",
+      "category": ""
+    },
+    "demo-5": {
+      "title": "Demo Masonry",
+      "thumbnail_url": "https://updates.thimpress.com/wp-content/uploads/2018/10/mag-demo-05.jpg",
+      "demo_url": "http://magwp.thimpress.com/demo-5/",
+      "category": ""
+    },
+    "demo-7": {
+      "title": "Demo Video News",
+      "thumbnail_url": "https://updates.thimpress.com/wp-content/uploads/2018/10/mag-demo-07.jpg",
+      "demo_url": "http://magwp.thimpress.com/demo-7/",
+      "category": ""
+    },
+    "demo-2": {
+      "title": "Demo Curated",
+      "thumbnail_url": "https://updates.thimpress.com/wp-content/uploads/2018/10/mag-demo-02.jpg",
+      "demo_url": "http://magwp.thimpress.com/demo-2/",
+      "category": ""
+    },
+    "demo-4": {
+      "title": "Demo Lifehack",
+      "thumbnail_url": "https://updates.thimpress.com/wp-content/uploads/2018/10/mag-demo-04.jpg",
+      "demo_url": "http://magwp.thimpress.com/demo-4/",
+      "category": ""
+    },
+    "demo-6": {
+      "title": "Demo Simple Blog",
+      "thumbnail_url": "https://updates.thimpress.com/wp-content/uploads/2018/10/mag-demo-06.jpg",
+      "demo_url": "http://magwp.thimpress.com/demo-6/",
+      "category": ""
+    },
+    "demo-3": {
+      "title": "Demo Review",
+      "thumbnail_url": "https://updates.thimpress.com/wp-content/uploads/2018/10/mag-demo-03.jpg",
+      "demo_url": "http://magwp.thimpress.com/demo-3/",
+      "category": ""
+    },
+    "demo-11": {
+      "title": "Demo Header Style 2",
+      "thumbnail_url": "https://updates.thimpress.com/wp-content/uploads/2018/10/mag-demo-11.jpg",
+      "demo_url": "http://magwp.thimpress.com/demo-11/",
+      "category": ""
+    },
+    "demo-boxed": {
+      "title": "Demo Boxed Layout",
+      "thumbnail_url": "https://updates.thimpress.com/wp-content/uploads/2018/10/mag-demo-12.jpg",
+      "demo_url": "http://magwp.thimpress.com/demo-boxed/",
+      "category": ""
+    },
+    "demo-10": {
+      "title": "Demo RTL Mode",
+      "thumbnail_url": "https://updates.thimpress.com/wp-content/uploads/2018/10/mag-demo-10.jpg",
+      "demo_url": "http://magwp.thimpress.com/demo-10/",
+      "category": ""
+    }
+  }
