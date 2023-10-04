@@ -1,0 +1,20 @@
+{
+    "demo-01": {
+      "title": "Demo 01",
+      "thumbnail_url": "https://updates.thimpress.com/wp-content/uploads/2018/04/landscaping-demo-01.jpg",
+      "demo_url": "http://landscaping.thimpress.com/",
+      "category": ""
+    },
+    "demo-02": {
+      "title": "Demo 02",
+      "thumbnail_url": "https://updates.thimpress.com/wp-content/uploads/2018/04/landscaping-demo-02.jpg",
+      "demo_url": "http://landscaping.thimpress.com/demo-2/",
+      "category": ""
+    },
+    "demo-03": {
+      "title": "Demo 03",
+      "thumbnail_url": "https://updates.thimpress.com/wp-content/uploads/2018/04/landscaping-demo-03.jpg",
+      "demo_url": "http://landscaping.thimpress.com/demo-3/",
+      "category": ""
+    }
+  }
