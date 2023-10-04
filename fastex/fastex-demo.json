@@ -1,0 +1,22 @@
+{
+    "demo-01": {
+        "title": "Demo 01",
+        "demo_url": "https://fastex.thimpress.com/",
+        "thumbnail_url": "https://fastex.thimpress.com/wp-content/themes/fastex/inc/admin/data/demo-01.jpg"
+    },
+    "demo-02": {
+        "title": "Demo 02",
+        "demo_url": "https://fastex.thimpress.com/home-2/",
+        "thumbnail_url": "https://fastex.thimpress.com/wp-content/themes/fastex/inc/admin/data/demo-02.jpg"
+    },
+    "demo-03": {
+        "title": "Demo 03",
+        "demo_url": "https://fastex.thimpress.com/home-3/",
+        "thumbnail_url": "https://fastex.thimpress.com/wp-content/themes/fastex/inc/admin/data/demo-03.jpg"
+    },
+    "demo-rtl": {
+        "title": "Demo RTL",
+        "demo_url": "https://fastex.thimpress.com/home-rtl/",
+        "thumbnail_url": "https://fastex.thimpress.com/wp-content/themes/fastex/inc/admin/data/demo-04.jpg"
+    }
+}
