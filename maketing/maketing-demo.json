@@ -1,0 +1,26 @@
+{
+    "demo-01": {
+      "title": "Demo 1",
+      "demo_url": "http://marketing.thimpress.com",
+      "thumbnail_url": "https://updates.thimpress.com/wp-content/uploads/2019/08/demo-marketio-1.jpg",
+      "category": ""
+    },
+    "demo-02": {
+      "title": "Demo 2",
+      "demo_url": "http://marketing.thimpress.com/demo-2",
+      "thumbnail_url": "https://updates.thimpress.com/wp-content/uploads/2019/08/demo-marketio-2.jpg",
+      "category": ""
+    },
+    "demo-03": {
+      "title": "Demo 3",
+      "demo_url": "http://marketing.thimpress.com/demo-3",
+      "thumbnail_url": "https://updates.thimpress.com/wp-content/uploads/2019/08/demo-marketio-3.jpg",
+      "category": ""
+    },
+    "demo-04": {
+      "title": "Demo 4",
+      "demo_url": "http://marketing.thimpress.com/demo-4",
+      "thumbnail_url": "https://updates.thimpress.com/wp-content/uploads/2019/08/demo-marketio-4.jpg",
+      "category": ""
+    }
+}
