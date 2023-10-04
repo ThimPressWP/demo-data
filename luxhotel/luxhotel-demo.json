@@ -1,0 +1,14 @@
+{
+    "demo-01": {
+      "title": "Demo 1",
+      "demo_url": "http://luxhotel.thimpress.com",
+      "thumbnail_url": "https://thimpresswp.github.io/demo-data/luxhotel/image-demo/demo-1.jpg",
+      "category": ""
+    },
+    "demo-02": {
+      "title": "Demo 2",
+      "demo_url": "http://luxhotel.thimpress.com/demo-2",
+      "thumbnail_url": "https://thimpresswp.github.io/demo-data/luxhotel/image-demo/demo-2.jpg",
+      "category": ""
+    }
+}
