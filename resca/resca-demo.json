@@ -1,0 +1,32 @@
+{
+    "demo-01": {
+        "title": "Home Restaurant",
+        "demo_url": "https://resca.thimpress.com/",
+        "thumbnail_url": "https://resca.thimpress.com/wp-content/uploads/2015/07/prv_home-1.jpg"
+    },
+    "demo-02": {
+        "title": "Home Coffee",
+        "demo_url": "https://resca.thimpress.com/home-coffee/",
+        "thumbnail_url": "https://resca.thimpress.com/wp-content/themes/resca/inc/admin/data/home-coffee.jpg"
+    },
+    "demo-03": {
+        "title": "Home Seafood",
+        "demo_url": "https://resca.thimpress.com/home-seafood/",
+        "thumbnail_url": "https://resca.thimpress.com/wp-content/themes/resca/inc/admin/data/home-seafood.jpg"
+    },
+    "demo-04": {
+        "title": "Home Winery",
+        "demo_url": "https://resca.thimpress.com/home-winery/",
+        "thumbnail_url": "https://resca.thimpress.com/wp-content/themes/resca/inc/admin/data/home-winery.jpg"
+    },
+    "demo-05": {
+        "title": "One Page",
+        "demo_url": "https://resca.thimpress.com/one-page/",
+        "thumbnail_url": "https://resca.thimpress.com/wp-content/themes/resca/inc/admin/data/home-onepage.jpg"
+    },
+    "demo-06": {
+        "title": "Home Full Screen Video",
+        "demo_url": "https://resca.thimpress.com/home-page-3/",
+        "thumbnail_url": "https://resca.thimpress.com/wp-content/uploads/2015/07/prev_home_video.jpg"
+    }
+}
