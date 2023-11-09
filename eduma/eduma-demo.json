@@ -11,17 +11,17 @@
     "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/eduma\/images\/demo-classic.jpg",
     "category": "popular"
   },
-  "demo-marketplace": {
-    "title": "Demo Marketplace",
-    "demo_url": "https:\/\/eduma.thimpress.com\/demo-marketplace\/",
-    "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/eduma\/images\/demo-marketplace.jpg",
-    "category": "popular"
-  },
   "demo-learning-platform": {
     "title": "Demo Learning Platform",
     "demo_url": "https:\/\/eduma.thimpress.com\/demo-learning-platform\/",
     "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/eduma\/images\/demo-learning-platform.jpg",
     "category": "school"
+  },
+  "demo-marketplace": {
+    "title": "Demo Marketplace",
+    "demo_url": "https:\/\/eduma.thimpress.com\/demo-marketplace\/",
+    "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/eduma\/images\/demo-marketplace.jpg",
+    "category": "popular"
   },
   "demo-elegant": {
     "title": "Demo Elegant",
