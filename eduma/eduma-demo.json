@@ -11,6 +11,12 @@
     "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/eduma\/images\/demo-classic.jpg",
     "category": "popular"
   },
+  "demo-ecommerce": {
+    "title": "Demo Ecommerce",
+    "demo_url": "https:\/\/eduma.thimpress.com\/demo-ecommerce\/",
+    "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/eduma\/images\/demo-ecommerce.jpg",
+    "category": "popular"
+  },
   "demo-marketplace": {
     "title": "Demo Marketplace",
     "demo_url": "https:\/\/eduma.thimpress.com\/demo-marketplace\/",
