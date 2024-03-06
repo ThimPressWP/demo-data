@@ -1,4 +1,10 @@
 {
+  "life-coaching": {
+    "title": "Life Coaching",
+     "demo_url": "https:\/\/coaching.thimpress.com\/life-coaching\/",
+    "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/coaching\/images\/life-coaching.jpg",
+    "category": "Life"
+  },
   "demo-business-2": {
     "title": "Demo Business Coaching",
      "demo_url": "https:\/\/coaching.thimpress.com\/business-coaching\/",
