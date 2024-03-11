@@ -3,5 +3,15 @@
         "title": "Demo 01",
         "demo_url": "https:\/\/squareroot.thimpress.com\/demo-01",
         "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/squareroot\/images\/demo-01.png"
+    },
+    "demo-02": {
+        "title": "Demo 02",
+        "demo_url": "https:\/\/squareroot.thimpress.com\/demo-2",
+        "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/squareroot\/images\/demo-01.png"
+    },
+    "demo-03": {
+        "title": "Demo 03",
+        "demo_url": "https:\/\/squareroot.thimpress.com\/demo-3",
+        "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/squareroot\/images\/demo-01.png"
     }
 }
