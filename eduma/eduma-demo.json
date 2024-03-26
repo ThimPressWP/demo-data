@@ -5,11 +5,17 @@
     "thumbnail_url": "https:\/\/updates.thimpress.com\/wp-content\/uploads\/2017\/06\/eduma-demo-01.jpg",
     "category": "popular"
   },
-  "demo-classic": {
-    "title": "Demo Classic",
-    "demo_url": "https:\/\/eduma.thimpress.com\/demo-classic\/",
-    "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/eduma\/images\/demo-classic.jpg",
-    "category": "popular"
+  "landing-online-course": {
+    "title": "Landing Page For Online Course",
+    "demo_url": "https:\/\/eduma.thimpress.com\/demo-main\/landing-page-for-online-course\/",
+    "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/eduma\/images\/landing-online-course.jpg",
+    "category": "one page"
+  },
+  "landing-offline-course": {
+    "title": "Landing Page For Offline Course",
+    "demo_url": "https:\/\/eduma.thimpress.com\/demo-main\/landing-page-for-offline-course\/",
+    "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/eduma\/images\/landing-offline-course.jpg",
+    "category": "one page"
   },
   "demo-ecommerce": {
     "title": "Demo Ecommerce",
@@ -28,6 +34,12 @@
     "demo_url": "https:\/\/eduma.thimpress.com\/demo-learning-platform\/",
     "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/eduma\/images\/demo-learning-platform.jpg",
     "category": "school"
+  },
+  "demo-classic": {
+    "title": "Demo Classic",
+    "demo_url": "https:\/\/eduma.thimpress.com\/demo-classic\/",
+    "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/eduma\/images\/demo-classic.jpg",
+    "category": "popular"
   },
   "demo-elegant": {
     "title": "Demo Elegant",
