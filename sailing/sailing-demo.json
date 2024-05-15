@@ -4,6 +4,11 @@
         "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/sailing\/images\/demo-10.jpg",
         "demo_url": "http:\/\/sailing.thimpress.com\/demo-10"
     },
+    "demo-11": {
+        "title": "Demo 11",
+        "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/sailing\/images\/demo-11.jpg",
+        "demo_url": "http:\/\/sailing.thimpress.com\/demo-11"
+    },
     "demo-01": {
         "title": "Demo 01",
         "thumbnail_url": "https:\/\/updates.thimpress.com\/wp-content\/uploads\/2018\/05\/sailing-demo-1.jpg",
