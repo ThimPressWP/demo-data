@@ -1,14 +1,14 @@
 {
-    "demo-09": {
-        "title": "Demo Main",
-        "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/sailing\/images\/demo-10.jpg",
-        "demo_url": "http:\/\/sailing.thimpress.com\/demo-10"
-    },
     "demo-11": {
-        "title": "Demo 11",
+        "title": "Demo Main",
         "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/sailing\/images\/demo-11.jpg",
         "label": "New",
         "demo_url": "http:\/\/sailing.thimpress.com\/demo-11"
+    },
+    "demo-09": {
+        "title": "Demo 10",
+        "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/sailing\/images\/demo-10.jpg",
+        "demo_url": "http:\/\/sailing.thimpress.com\/demo-10"
     },
     "demo-01": {
         "title": "Demo 01",
