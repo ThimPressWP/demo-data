@@ -12,7 +12,7 @@
     },
     "demo-01": {
         "title": "Demo 01",
-        "thumbnail_url": "https:\/\/updates.thimpress.com\/wp-content\/uploads\/2018\/05\/sailing-demo-1.jpg",
+        "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/sailing\/images\/demo-1.png",
         "demo_url": "http:\/\/sailing.thimpress.com\/demo-1"
     },
     "demo-08": {
@@ -27,7 +27,7 @@
     },
     "demo-02": {
         "title": "Demo 02",
-        "thumbnail_url": "https:\/\/updates.thimpress.com\/wp-content\/uploads\/2018\/05\/sailing-demo-2.jpg",
+        "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/sailing\/images\/demo-2.png",
         "demo_url": "http:\/\/sailing.thimpress.com\/demo-2"
     },
     "demo-03": {
@@ -37,7 +37,7 @@
     },
     "demo-04": {
         "title": "Demo 04",
-        "thumbnail_url": "https:\/\/updates.thimpress.com\/wp-content\/uploads\/2018\/05\/sailing-demo-4.jpg",
+        "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/sailing\/images\/demo-4.png",
         "demo_url": "http:\/\/sailing.thimpress.com\/demo-4"
     },
     "demo-05": {
@@ -47,7 +47,7 @@
     },
     "demo-07": {
         "title": "Demo 07",
-        "thumbnail_url": "https:\/\/updates.thimpress.com\/wp-content\/uploads\/2018\/05\/sailing-demo-7.jpg",
+        "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/sailing\/images\/demo-7.png",
         "demo_url": "http:\/\/sailing.thimpress.com\/demo-7",
         "category": "RTL"
     }
