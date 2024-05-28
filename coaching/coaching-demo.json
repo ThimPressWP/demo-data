@@ -1,4 +1,11 @@
 {
+  "business-consulting": {
+    "title": "Business Consulting",
+    "demo_url": "https:\/\/coaching.thimpress.com\/business-consulting\/",
+    "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/coaching\/images\/business-consulting.jpg",
+    "label": "New",
+    "category": "Business"
+  },
   "life-coaching": {
     "title": "Life Coaching",
      "demo_url": "https:\/\/coaching.thimpress.com\/life-coaching\/",
