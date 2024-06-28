@@ -1,4 +1,11 @@
 {
+  "business-coaching-2": {
+    "title": "Business Coaching 2",
+     "demo_url": "https:\/\/coaching.thimpress.com\/business-coaching-2\/",
+    "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/coaching\/images\/business-coaching-2.jpg",
+    "label": "New",
+    "category": "Business"
+  },
   "business-consulting": {
     "title": "Business Consulting",
     "demo_url": "https:\/\/coaching.thimpress.com\/business-consulting\/",
@@ -17,13 +24,6 @@
     "title": "Demo Business Coaching",
      "demo_url": "https:\/\/coaching.thimpress.com\/business-coaching\/",
     "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/coaching\/images\/demo-business-2.jpg",
-    "category": "Business"
-  },
-  "business-coaching-2": {
-    "title": "Business Coaching 2",
-     "demo_url": "https:\/\/coaching.thimpress.com\/business-coaching-2\/",
-    "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/coaching\/images\/business-coaching-2.jpg",
-    "label": "New",
     "category": "Business"
   },
   "demo-helthy": {
