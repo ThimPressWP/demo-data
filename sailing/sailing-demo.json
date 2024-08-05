@@ -1,52 +1,52 @@
 {
     "demo-11": {
-        "title": "Demo Main",
+        "title": "Beach Resort & Spa",
         "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/sailing\/images\/demo-11.jpg",
         "label": "New",
         "demo_url": "http:\/\/sailing.thimpress.com\/demo-11"
     },
     "demo-09": {
-        "title": "Demo 10",
+        "title": "Island Retreat",
         "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/sailing\/images\/demo-10.jpg",
         "demo_url": "http:\/\/sailing.thimpress.com\/demo-10"
     },
     "demo-01": {
-        "title": "Demo 01",
+        "title": "Mediterranean Beach Hotel",
         "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/sailing\/images\/demo-1.png",
         "demo_url": "http:\/\/sailing.thimpress.com\/demo-1"
     },
     "demo-08": {
-        "title": "Demo 09",
+        "title": "Classic Hotel",
         "thumbnail_url": "https:\/\/updates.thimpress.com\/wp-content\/uploads\/2018\/08\/sailing-demo-8.png",
         "demo_url": "http:\/\/sailing.thimpress.com\/demo-9"
     },
     "demo-06": {
-        "title": "Demo 06",
+        "title": "Boutique Resort",
         "thumbnail_url": "https:\/\/updates.thimpress.com\/wp-content\/uploads\/2018\/05\/sailing-demo-6.jpg",
         "demo_url": "http:\/\/sailing.thimpress.com\/demo-6"
     },
     "demo-02": {
-        "title": "Demo 02",
+        "title": "Tropical Bungalow",
         "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/sailing\/images\/demo-2.png",
         "demo_url": "http:\/\/sailing.thimpress.com\/demo-2"
     },
     "demo-03": {
-        "title": "Demo 03",
+        "title": "Modern Villa",
         "thumbnail_url": "https:\/\/updates.thimpress.com\/wp-content\/uploads\/2018\/05\/sailing-demo-3.jpg",
         "demo_url": "http:\/\/sailing.thimpress.com\/demo-3"
     },
     "demo-04": {
-        "title": "Demo 04",
+        "title": "Minimalist Beach House",
         "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/sailing\/images\/demo-4.png",
         "demo_url": "http:\/\/sailing.thimpress.com\/demo-4"
     },
     "demo-05": {
-        "title": "Demo 05",
+        "title": "Hotel & Marina Club",
         "thumbnail_url": "https:\/\/updates.thimpress.com\/wp-content\/uploads\/2018\/05\/sailing-demo-5.jpg",
         "demo_url": "http:\/\/sailing.thimpress.com\/demo-5"
     },
     "demo-07": {
-        "title": "Demo 07",
+        "title": "RTL",
         "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/sailing\/images\/demo-7.png",
         "demo_url": "http:\/\/sailing.thimpress.com\/demo-7",
         "category": "RTL"
