@@ -1,0 +1,55 @@
+{
+    "mode": "modern",
+    "location": "database",
+    "custom": true,
+    "dir": false,
+    "url": false,
+    "stylesheet": false,
+    "screenshot": false,
+    "premium": false,
+    "type": "snippet",
+    "slug": "template-button-1",
+    "name": "Template Button 1",
+    "css": ".wprm-recipe-template-template-button-1 {\n    font-family: inherit; /*wprm_font_family type=font*/\n    font-size: 14px; /*wprm_font_size type=font_size*/\n    text-align: left; /*wprm_text_align type=align*/\n    margin-top: 0px; /*wprm_margin_top type=size*/\n    margin-bottom: 30px; /*wprm_margin_bottom type=size*/\n    display: flex;\n    row-gap: 12px;\n    flex-wrap: wrap;\n}\n.wprm-recipe-template-template-button-1 a  {\n    margin: 0 12px 0 0 !important;\n}\n\n.wprm-recipe-template-template-button-1 a:first-child {\n    margin-left: 0;\n}\n.wprm-recipe-template-template-button-1 a:last-child {\n    margin-right: 0 !important;\n}\n.wprm-recipe-snippet.wprm-recipe-template-template-button-1 .wprm-recipe-link-inline-button {\n  line-height:  1.5em;\n  font-weight: 500;\n  font-size: 16px;\n  text-transform: capitalize;\n  display: inline-flex;\n  gap: 8px;\n}\n.wprm-recipe-jump-inline-button::before {\n  background-image: url(\"data:image/svg+xml,%3Csvg width='24' height='25' viewBox='0 0 24 25' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M12 5.66998V19.67' stroke='white' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/%3E%3Cpath d='M19 12.67L12 19.67L5 12.67' stroke='white' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E%0A\");\n  content: '';\n  width: 24px;\n  height: 24px;\n  background-position: center;\n  display: inline-block;\n}\n.wprm-recipe-jump-inline-button:hover, .wprm-recipe-snippet .wprm-recipe-print-inline-button:hover, .wprm-recipe-jump-video-inline-button:hover {\n\tbackground: #DD3333 !important;\n  \tcolor: #fff !important;\n  \tborder-color: #DD3333 !important;\n}\n.wprm-recipe-jump-video-inline-button:hover::before {\n  background-image: url(\"data:image/svg+xml,%3Csvg width='24' height='25' viewBox='0 0 24 25' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M4.52081 2.79227C4.84189 2.61698 5.23305 2.63099 5.54076 2.82881L19.5408 11.8288C19.827 12.0128 20 12.3297 20 12.67C20 13.0102 19.827 13.3272 19.5408 13.5112L5.54076 22.5112C5.23305 22.709 4.84189 22.723 4.52081 22.5477C4.19974 22.3724 4 22.0358 4 21.67V3.66998C4 3.30418 4.19974 2.96756 4.52081 2.79227ZM6 5.50165V19.8383L17.1507 12.67L6 5.50165Z' fill='%23fff'/%3E%3C/svg%3E%0A\");\n}\n.wprm-recipe-jump-video-inline-button::before {\n  content: '';\n  background-image: url(\"data:image/svg+xml,%3Csvg width='24' height='25' viewBox='0 0 24 25' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M4.52081 2.79227C4.84189 2.61698 5.23305 2.63099 5.54076 2.82881L19.5408 11.8288C19.827 12.0128 20 12.3297 20 12.67C20 13.0102 19.827 13.3272 19.5408 13.5112L5.54076 22.5112C5.23305 22.709 4.84189 22.723 4.52081 22.5477C4.19974 22.3724 4 22.0358 4 21.67V3.66998C4 3.30418 4.19974 2.96756 4.52081 2.79227ZM6 5.50165V19.8383L17.1507 12.67L6 5.50165Z' fill='%23F54242'/%3E%3C/svg%3E%0A\");\n  width: 24px;\n  height: 24px;\n  display: inline-block;\n  background-position: center;\n}\n.wprm-recipe-snippet .wprm-recipe-print-inline-button::before {\n  content: '';\n  background-image: url(\"data:image/svg+xml,%0A%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23fff' width='20px' height='20px' viewBox='0 0 32 32' xml:space='preserve'%3E%3Cpath d='M31,10h-5V1c0-0.552-0.448-1-1-1H7C6.448,0,6,0.448,6,1v9H1c-0.552,0-1,0.448-1,1v12 c0,0.552,0.448,1,1,1h5v7c0,0.552,0.448,1,1,1h18c0.552,0,1-0.448,1-1v-7h5c0.552,0,1-0.448,1-1V11C32,10.448,31.552,10,31,10z M8,2 h16v9H8V2z M8,19h16v11H8V19z M30,22h-5v-3c0-0.552-0.448-1-1-1H8c-0.552,0-1,0.448-1,1v3H2V12h28V22z M4,14h1v1H4V14z M6,14h1v1H6 V14z M10,21h12v1H10V21z M10,24h12v1H10V24z M10,27h12v1H10V27z'/%3E%3C/svg%3E\");\n  width: 24px;\n  height: 24px;\n  display: inline-block;\n  background-position: center;\n  background-repeat: no-repeat;\n}",
+    "html": "[wprm-recipe-jump style=\"inline-button\" icon=\"\" horizontal_padding=\"20px\" button_color=\"#f54242\" border_radius=\"8px\" text_color=\"#ffffff\" icon_color=\"#ffffff\" vertical_padding=\"11px\" text_style=\"normal\" smooth_scroll=\"1\" border_color=\"#f54242\"]\n[wprm-recipe-jump-video style=\"inline-button\" icon=\"\" horizontal_padding=\"20px\" button_color=\"#ffffff\" border_radius=\"8px\" text_color=\"#f54242\" icon_color=\"#ffffff\" vertical_padding=\"11px\" border_color=\"#f54242\" smooth_scroll=\"1\"]\n[wprm-recipe-print icon=\"\" style=\"inline-button\" horizontal_padding=\"20px\" button_color=\"#f54242\" border_radius=\"8px\" text_color=\"#ffffff\" icon_color=\"#ffffff\" vertical_padding=\"11px\" border_color=\"#f54242\"]",
+    "style": {
+        "properties": {
+            "font_family": {
+                "id": "font_family",
+                "name": "Font Family",
+                "default": "inherit",
+                "value": "inherit",
+                "type": "font"
+            },
+            "font_size": {
+                "id": "font_size",
+                "name": "Font Size",
+                "default": "14px",
+                "value": "14px",
+                "type": "font_size"
+            },
+            "text_align": {
+                "id": "text_align",
+                "name": "Text Align",
+                "default": "left",
+                "value": "left",
+                "type": "align"
+            },
+            "margin_top": {
+                "id": "margin_top",
+                "name": "Margin Top",
+                "default": "0px",
+                "value": "0px",
+                "type": "size"
+            },
+            "margin_bottom": {
+                "id": "margin_bottom",
+                "name": "Margin Bottom",
+                "default": "30px",
+                "value": "30px",
+                "type": "size"
+            }
+        },
+        "css": ".wprm-recipe-template-template-button-1 {\n    font-family: %wprm_font_family%;\n    font-size: %wprm_font_size%;\n    text-align: %wprm_text_align%;\n    margin-top: %wprm_margin_top%;\n    margin-bottom: %wprm_margin_bottom%;\n    display: flex;\n    row-gap: 12px;\n    flex-wrap: wrap;\n}\n.wprm-recipe-template-template-button-1 a  {\n    margin: 0 12px 0 0 !important;\n}\n\n.wprm-recipe-template-template-button-1 a:first-child {\n    margin-left: 0;\n}\n.wprm-recipe-template-template-button-1 a:last-child {\n    margin-right: 0 !important;\n}\n.wprm-recipe-snippet.wprm-recipe-template-template-button-1 .wprm-recipe-link-inline-button {\n  line-height:  1.5em;\n  font-weight: 500;\n  font-size: 16px;\n  text-transform: capitalize;\n  display: inline-flex;\n  gap: 8px;\n}\n.wprm-recipe-jump-inline-button::before {\n  background-image: url(\"data:image/svg+xml,%3Csvg width='24' height='25' viewBox='0 0 24 25' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M12 5.66998V19.67' stroke='white' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/%3E%3Cpath d='M19 12.67L12 19.67L5 12.67' stroke='white' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E%0A\");\n  content: '';\n  width: 24px;\n  height: 24px;\n  background-position: center;\n  display: inline-block;\n}\n.wprm-recipe-jump-inline-button:hover, .wprm-recipe-snippet .wprm-recipe-print-inline-button:hover, .wprm-recipe-jump-video-inline-button:hover {\n\tbackground: #DD3333 !important;\n  \tcolor: #fff !important;\n  \tborder-color: #DD3333 !important;\n}\n.wprm-recipe-jump-video-inline-button:hover::before {\n  background-image: url(\"data:image/svg+xml,%3Csvg width='24' height='25' viewBox='0 0 24 25' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M4.52081 2.79227C4.84189 2.61698 5.23305 2.63099 5.54076 2.82881L19.5408 11.8288C19.827 12.0128 20 12.3297 20 12.67C20 13.0102 19.827 13.3272 19.5408 13.5112L5.54076 22.5112C5.23305 22.709 4.84189 22.723 4.52081 22.5477C4.19974 22.3724 4 22.0358 4 21.67V3.66998C4 3.30418 4.19974 2.96756 4.52081 2.79227ZM6 5.50165V19.8383L17.1507 12.67L6 5.50165Z' fill='%23fff'/%3E%3C/svg%3E%0A\");\n}\n.wprm-recipe-jump-video-inline-button::before {\n  content: '';\n  background-image: url(\"data:image/svg+xml,%3Csvg width='24' height='25' viewBox='0 0 24 25' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M4.52081 2.79227C4.84189 2.61698 5.23305 2.63099 5.54076 2.82881L19.5408 11.8288C19.827 12.0128 20 12.3297 20 12.67C20 13.0102 19.827 13.3272 19.5408 13.5112L5.54076 22.5112C5.23305 22.709 4.84189 22.723 4.52081 22.5477C4.19974 22.3724 4 22.0358 4 21.67V3.66998C4 3.30418 4.19974 2.96756 4.52081 2.79227ZM6 5.50165V19.8383L17.1507 12.67L6 5.50165Z' fill='%23F54242'/%3E%3C/svg%3E%0A\");\n  width: 24px;\n  height: 24px;\n  display: inline-block;\n  background-position: center;\n}\n.wprm-recipe-snippet .wprm-recipe-print-inline-button::before {\n  content: '';\n  background-image: url(\"data:image/svg+xml,%0A%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23fff' width='20px' height='20px' viewBox='0 0 32 32' xml:space='preserve'%3E%3Cpath d='M31,10h-5V1c0-0.552-0.448-1-1-1H7C6.448,0,6,0.448,6,1v9H1c-0.552,0-1,0.448-1,1v12 c0,0.552,0.448,1,1,1h5v7c0,0.552,0.448,1,1,1h18c0.552,0,1-0.448,1-1v-7h5c0.552,0,1-0.448,1-1V11C32,10.448,31.552,10,31,10z M8,2 h16v9H8V2z M8,19h16v11H8V19z M30,22h-5v-3c0-0.552-0.448-1-1-1H8c-0.552,0-1,0.448-1,1v3H2V12h28V22z M4,14h1v1H4V14z M6,14h1v1H6 V14z M10,21h12v1H10V21z M10,24h12v1H10V24z M10,27h12v1H10V27z'/%3E%3C/svg%3E\");\n  width: 24px;\n  height: 24px;\n  display: inline-block;\n  background-position: center;\n  background-repeat: no-repeat;\n}"
+    }
+}
