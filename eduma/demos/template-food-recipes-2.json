@@ -1,0 +1,153 @@
+{
+    "mode": "modern",
+    "location": "database",
+    "custom": true,
+    "dir": false,
+    "url": false,
+    "stylesheet": false,
+    "screenshot": false,
+    "premium": false,
+    "type": "recipe",
+    "slug": "template-1",
+    "name": "Template 1",
+    "css": ".wprm-recipe-template-template-1 {\n    margin: 0 auto;\n    background-color: #ffffff; /*wprm_background type=color*/\n    font-family: inherit; /*wprm_main_font_family type=font*/\n    font-size: 1em; /*wprm_main_font_size type=font_size*/\n    line-height: 1.5em !important; /*wprm_main_line_height type=font_size*/\n    color: #333333; /*wprm_main_text type=color*/\n    max-width: 950px; /*wprm_max_width type=size*/\n}\n\n.wprm-recipe-print-inline-button {\n  font-weight: 600;\n  float: right;\n  z-index: 2;\n  position: relative;\n}\n\n.wprm-recipe-print-inline-button:hover {\n  background: #098CE9 !important;\n  color: #fff !important;\n}\n.wprm-recipe-template-template-1 a {\n    color: #5A822B; /*wprm_link type=color*/\n}\n.wprm-recipe-servings-label::before {\n  content: '';\n  background-image: url(\"data:image/svg+xml,%3Csvg width='20' height='21' viewBox='0 0 20 21' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M3.33335 13.5033C2.89133 13.5033 2.4674 13.6789 2.15484 13.9915C1.84228 14.304 1.66669 14.7279 1.66669 15.17V16.0033C1.66669 16.2243 1.75448 16.4363 1.91076 16.5926C2.06704 16.7488 2.27901 16.8366 2.50002 16.8366H17.5C17.721 16.8366 17.933 16.7488 18.0893 16.5926C18.2456 16.4363 18.3334 16.2243 18.3334 16.0033V15.17C18.3334 14.7279 18.1578 14.304 17.8452 13.9915C17.5326 13.6789 17.1087 13.5033 16.6667 13.5033M3.33335 13.5033H16.6667M3.33335 13.5033C3.33335 11.7352 4.03573 10.0395 5.28598 8.78925C6.53622 7.53901 8.23191 6.83663 10 6.83663M16.6667 13.5033C16.6667 11.7352 15.9643 10.0395 14.7141 8.78925C13.4638 7.53901 11.7681 6.83663 10 6.83663M10 6.83663V3.5033M8.33335 3.5033H11.6667' stroke='%23098CE9' stroke-width='1.5' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E%0A\");\n  display: inline-block;\n  width: 20px;\n  height: 20px;\n}\n.wprm-recipe-calories-label::before {\n  content: '';\n  background-image: url(\"data:image/svg+xml,%3Csvg width='20' height='21' viewBox='0 0 20 21' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M11.6666 1.83655H4.99998C4.55795 1.83655 4.13403 2.01214 3.82147 2.3247C3.50891 2.63726 3.33331 3.06119 3.33331 3.50321V16.8365C3.33331 17.2786 3.50891 17.7025 3.82147 18.0151C4.13403 18.3276 4.55795 18.5032 4.99998 18.5032H15C15.442 18.5032 15.8659 18.3276 16.1785 18.0151C16.4911 17.7025 16.6666 17.2786 16.6666 16.8365V6.83655L11.6666 1.83655Z' stroke='%23098CE9' stroke-width='1.5' stroke-linecap='round' stroke-linejoin='round'/%3E%3Cpath d='M11.6667 1.83655V6.83655H16.6667' stroke='%23098CE9' stroke-width='1.5' stroke-linecap='round' stroke-linejoin='round'/%3E%3Cpath d='M13.3334 11.0033H6.66669' stroke='%23098CE9' stroke-width='1.5' stroke-linecap='round' stroke-linejoin='round'/%3E%3Cpath d='M13.3334 14.3365H6.66669' stroke='%23098CE9' stroke-width='1.5' stroke-linecap='round' stroke-linejoin='round'/%3E%3Cpath d='M8.33335 7.66992H7.50002H6.66669' stroke='%23098CE9' stroke-width='1.5' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E%0A\");  \n  display: inline-block;\n  width: 20px;\n  height: 20px;\n}\n.wprm-recipe-total-time-label::before {\n  content: '';\n  background-image: url(\"data:image/svg+xml,%3Csvg width='20' height='21' viewBox='0 0 20 21' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M10 7.66992V11.0033L11.6667 12.6699M4.16669 2.66992L1.66669 5.16992M18.3334 5.16992L15.8334 2.66992M5.31669 15.7533L3.33335 17.6699M14.7 15.7283L16.6667 17.6699M16.6667 11.0033C16.6667 14.6852 13.6819 17.6699 10 17.6699C6.31812 17.6699 3.33335 14.6852 3.33335 11.0033C3.33335 7.32136 6.31812 4.33659 10 4.33659C13.6819 4.33659 16.6667 7.32136 16.6667 11.0033Z' stroke='%23098CE9' stroke-width='1.5' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E%0A\");  \n  width: 20px;\n  height: 20px;\n  display: inline-block;\n}\n.wprm-recipe-cook-time-label::before {\n  content: '';\n  background-image: url(\"data:image/svg+xml,%3Csvg width='20' height='21' viewBox='0 0 20 21' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M7.08335 12.2533C7.63589 12.2533 8.16579 12.0338 8.55649 11.6431C8.94719 11.2524 9.16669 10.7225 9.16669 10.1699C9.16669 9.01992 8.75002 8.50326 8.33335 7.66992C7.44002 5.88409 8.14669 4.29159 10 2.66992C10.4167 4.75326 11.6667 6.75326 13.3334 8.08659C15 9.41992 15.8334 11.0033 15.8334 12.6699C15.8334 13.436 15.6825 14.1945 15.3893 14.9022C15.0962 15.61 14.6665 16.253 14.1248 16.7947C13.5831 17.3364 12.9401 17.7661 12.2323 18.0592C11.5246 18.3524 10.7661 18.5033 10 18.5033C9.23398 18.5033 8.47543 18.3524 7.7677 18.0592C7.05997 17.7661 6.41691 17.3364 5.87523 16.7947C5.33356 16.253 4.90388 15.61 4.61072 14.9022C4.31757 14.1945 4.16669 13.436 4.16669 12.6699C4.16669 11.7091 4.52752 10.7583 5.00002 10.1699C5.00002 10.7225 5.21951 11.2524 5.61021 11.6431C6.00092 12.0338 6.53082 12.2533 7.08335 12.2533Z' stroke='%23098CE9' stroke-width='1.5' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E%0A\");\n  width: 20px;\n  height: 20px;\n  display: inline-block;\n}\n.wprm-recipe-servings-label, .wprm-recipe-cook-time-label, .wprm-recipe-total-time-label, .wprm-recipe-calories-label {\n  display: inline-flex;\n  gap: 8px;\n  align-items: center;\n}\n.wprm-recipe-ingredients-container, .wprm-recipe-instructions-container, .wprm-recipe-notes-container {\n  margin-bottom: 30px;\n}\n.wprm-recipe-servings-container, .wprm-recipe-nutrition-container, .wprm-recipe-time-container {\n    display: inline-flex;\n    gap: 8px;\n    align-items: center;\n    margin-bottom: 8px;\n    margin-right: 20px;\n}\n.wprm-recipe-template-template-1 p, .wprm-recipe-template-template-1 li {\n    font-family: inherit; /*wprm_main_font_family type=font*/\n    font-size: 1em !important;\n    line-height: 1.5em !important; /*wprm_main_line_height type=font_size*/\n}\n.wprm-recipe-template-template-1 li {\n    margin: 0 0 12px 15px !important;\n    padding: 0 !important;\n}\n.wprm-recipe-template-template-1 li.wprm-recipe-ingredient {\n  \tmargin-left: 0 !important;\n}\n.wprm-recipe-ingredient input[type=checkbox]:checked ~ span {\n  text-decoration: line-through;\n  opacity: 0.7;\n}\n.wprm-recipe-ingredient input[type=checkbox] {\n  margin: 0;\n  margin-right: 8px;\n  border-radius: 2px;\n  border-color: #666666;\n  position: relative;\n  box-shadow: none;\n  width: 19px;\n  height: 19px;\n  margin-top: -4px;\n  border-width: 2px;\n}\n.wprm-recipe-ingredient input[type=checkbox]::before {\n    position: absolute;\n    left: 0;\n    right: 0;\n    top: 0;\n    bottom: 0;\n    content: \"\";\n  \twidth: 100%;\n}\n.wprm-recipe-ingredient input[type=checkbox]:checked {\n\tborder-color: #098CE9;\n}\n.wprm-recipe-ingredient input[type=checkbox]:checked:before {\n  background-image: url(\"data:image/svg+xml,%3Csvg width='11' height='9' viewBox='0 0 11 9' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M9.60306 0.383759L4.32171 6.60194L1.38362 3.67467C1.05917 3.3474 0.55447 3.38376 0.230018 3.67467C-0.0944332 4.00194 -0.058383 4.51103 0.230018 4.8383L3.52861 8.09285C3.74491 8.31103 4.03331 8.42012 4.32171 8.42012C4.61011 8.42012 4.89851 8.31103 5.11481 8.09285L10.7567 1.58376C11.0811 1.25649 11.0811 0.747395 10.7567 0.420122C10.4322 0.0928495 9.92751 0.09285 9.60306 0.383759Z' fill='%23098CE9'/%3E%3C/svg%3E%0A\") !important;\n  background-position: center !important;\n  background-repeat: no-repeat !important;\n}\n.rtl .wprm-recipe-template-template-1 li {\n    margin: 0 15px 0 0 !important;\n}\n.wprm-recipe-template-template-1 ol, .wprm-recipe-template-template-1 ul {\n    margin: 0 !important;\n    padding: 0 !important;\n}\n.wprm-recipe-template-template-1 br {\n    display: none;\n}\n.wprm-recipe-template-template-1 .wprm-recipe-name,\n.wprm-recipe-template-template-1 .wprm-recipe-header {\n    font-family: inherit; /*wprm_header_font_family type=font*/\n    color: #212121; /*wprm_header_text type=color*/\n    line-height: 1.3em; /*wprm_header_line_height type=font_size*/\t\n    position: relative;\n}\n.wprm-recipe-template-template-1 .wprm-recipe-header {\n  margin-bottom: 30px !important;\n  font-size: 24px;\n  text-transform: capitalize !important;\n  font-weight: 700;\n  font-family: var(--thim-font-title-font-family);\n}\n\n.wprm-recipe-ingredients-container {\n  border: 1px solid #E2E0DB;\n  padding: 30px;\n  border-radius: 8px 8px 0 0;\n  margin-bottom: 0;\n  border-bottom: 0;\n}\n\n.wprm-recipe-image img {\n  width: 100%;\n  margin-bottom: 30px;\n  border-radius: 0 0 8px 8px;\n}\n\n.wprm-recipe-template-template-1 h1,\n.wprm-recipe-template-template-1 h2,\n.wprm-recipe-template-template-1 h3,\n.wprm-recipe-template-template-1 h4,\n.wprm-recipe-template-template-1 h5,\n.wprm-recipe-template-template-1 h6 {\n    font-family: inherit; /*wprm_header_font_family type=font*/\n    color: #212121; /*wprm_header_text type=color*/\n    line-height: 1.3em; /*wprm_header_line_height type=font_size*/\n    margin: 0 !important;\n    padding: 0 !important;\n}\n\n.wprm-recipe-template-template-1 h1 {\n    font-size: 2em; /*wprm_h1_size type=font_size*/\n}\n.wprm-recipe-template-template-1 h2 {\n    font-size: 1.8em; /*wprm_h2_size type=font_size*/\n}\n.wprm-recipe-template-template-1 h3 {\n    font-size: 1.2em; /*wprm_h3_size type=font_size*/\n}\n.wprm-recipe-template-template-1 h4 {\n    font-size: 1em; /*wprm_h4_size type=font_size*/\n}\n.wprm-recipe-template-template-1 h5 {\n    font-size: 1em; /*wprm_h5_size type=font_size*/\n}\n.wprm-recipe-template-template-1 h6 {\n    font-size: 1em; /*wprm_h6_size type=font_size*/\n}.wprm-recipe-template-template-1 {\n    font-size: 1em; /*wprm_main_font_size type=font_size*/\n\tborder-style: solid; /*wprm_border_style type=border*/\n\tborder-width: 1px; /*wprm_border_width type=size*/\n\tborder-color: #ffffff; /*wprm_border type=color*/\n    background-color: #ffffff; /*wprm_background type=color*/\n    max-width: 950px; /*wprm_max_width type=size*/\n  \tborder-radius: 8px;\n}\n.wprm-recipe-template-template-1 a {\n    color: #5A822B; /*wprm_link type=color*/\n}\n.wprm-recipe-template-template-1 .wprm-recipe-name {\n    line-height: 1.3em;\n    font-weight: bold;\n}\n.wprm-recipe-servings-toggle {\n  display: inline-flex;\n  border: none;\n  align-items: center;\n  position: absolute;\n  right: 0;\n  left: auto;\n  top: 0;\n}\n.wprm-recipe-servings-toggle h5 {\n  margin-right: 12px !important;\n}\n.wprm-recipe-servings-toggle button.wprm-toggle {\n  border: 1px solid #DDDDDD;\n  width: 36px;\n  height: 36px;\n  font-weight: 400;\n  padding: 0;\n  border-right: 0;\n}\n.wprm-recipe-servings-toggle button.wprm-toggle:last-child {\n   border-right: 1px solid #DDDDDD;\n  border-radius: 0 8px 8px 0;\n}\n.wprm-recipe-servings-toggle button.wprm-toggle:nth-child(2){\n  border-radius: 8px 0 0 8px;\n}\n.wprm-recipe-servings-toggle button.wprm-toggle.wprm-toggle-active {\n  background: #098CE9;\n  border-color: #098CE9;\n  color: #fff;\n}\n.wprm-recipe-template-template-1 .wprm-template-chic-buttons {\n\tclear: both;\n    font-size: 0.9em;\n    text-align: center;\n}\n.wprm-recipe-template-template-1 .wprm-template-chic-buttons .wprm-recipe-icon {\n    margin-right: 5px;\n}\n.wprm-recipe-template-template-1 .wprm-nutrition-label-container {\n\tfont-size: 0.9em;\n}\n.wprm-recipe-template-template-1 .wprm-call-to-action {\n\tborder-radius: 3px;\n}\n.wprm-recipe-video-container iframe {\n  \tborder-radius: 8px;\n}\n.comment-form-wprm-rating label {\n  display: none;\n}\n.content-comment .wprm-comment-rating {\n  filter: sepia(1) saturate(1000%) hue-rotate(370deg) brightness(3);\n  margin: 0 0 10px 0; \n}\n@media (max-width: 1024px){\n  .wprm-container-header {\n    gap: 20px;\n    flex-direction: column;\n  }\n  .wprm-container-header .wprm-recipe-image {\n      max-width: 200px;\n      min-width: auto;\n  }\n  .wprm-recipe-times-container, .wprm-recipe-custom-container {\n      display: flex;\n      column-gap: 20px;\n      flex-wrap: wrap;\n  }\n}\n@media (max-width: 500px){\n  .wprm-recipe-template-template-1 .wprm-recipe-ingredients-header {\n       padding-top: 60px !important;\n  }\n  .wprm-recipe-servings-toggle {\n    left: 0;\n    right: auto;\n  }\n}",
+    "html": "<div class=\"wprm-container-header\">\n[wprm-recipe-print style=\"inline-button\" border_radius=\"8px\" vertical_padding=\"11px\" icon=\"\" icon_color=\"#f54242\" text_color=\"#098ce9\" button_color=\"#ffffff\" border_color=\"#098ce9\" text_style=\"normal\" horizontal_padding=\"20px\"]  \n[wprm-recipe-name tag=\"h2\" text_style=\"bold\"]\n[wprm-spacer size=\"20px\"]\n[wprm-recipe-meta-container fields=\"times\" style=\"separate\" time_shorthand=\"1\" table_border_width=\"1px\" table_borders=\"none\" label_style=\"normal\" icon_color=\"#f54242\" label_prep_time=\"Prep Time:\" label_cook_time=\"Cook Time:\" label_total_time=\"Total Time: \"]\n[wprm-recipe-meta-container style=\"separate\" time_shorthand=\"1\" table_border_width=\"1px\" table_borders=\"none\" fields=\"custom\" nutrition_unit_separator=\" \" nutrition_daily=\"0\" nutrition_unit=\"1\" text_style=\"normal\" label_style=\"normal\" selected_fields=\"servings,calories\" icon_servings=\"\" icon_calories=\"\" icon_color=\"#f54242\" label_servings=\"Serves: \" label_calories=\"Calories: \"]\n</div>\n[wprm-spacer size=\"40px\"]\n[wprm-recipe-ingredients header=\"Ingredients\" notes_style=\"faded\" header_decoration=\"none\" header_line_color=\"#e0e0e0\" header_style=\"uppercase\" group_style=\"normal\" unit_conversion=\"header\" unit_conversion_style=\"buttons\" unit_conversion_button_background=\"#ffffff\" adjustable_servings=\"header\" servings_text_style=\"normal\" servings_button_background=\"#ffffff\" unit_conversion_button_radius=\"3px\" servings_button_radius=\"3px\" unit_conversion_button_accent=\"#616161\" servings_button_accent=\"#616161\" list_style=\"checkbox\" group_tag=\"h4\" serving_options_any_value=\"2\" advanced_servings=\"before\" ingredients_style=\"regular\"]\n[wprm-recipe-image default=\"350x350\" size=\"850x450\" style=\"normal\" rounded_radius=\"0px\"]\n[wprm-recipe-instructions header=\"Instructions\" text_margin=\"5px\" image_size=\"medium\" header_decoration=\"none\" header_line_color=\"#e0e0e0\" header_style=\"uppercase\" media_toggle=\"header\" toggle_button_accent=\"#616161\" toggle_on_icon=\"camera-2\"]\n\n[wprm-recipe-notes header=\"Notes\" header_decoration=\"none\" header_line_color=\"#e0e0e0\" text_style=\"normal\" header_style=\"uppercase\"]\n[wprm-recipe-video header=\"\" header_decoration=\"none\" header_line_color=\"#e0e0e0\" header_style=\"uppercase\"]",
+    "style": {
+        "properties": {
+            "background": {
+                "id": "background",
+                "name": "Background",
+                "default": "#ffffff",
+                "value": "#ffffff",
+                "type": "color"
+            },
+            "main_font_family": {
+                "id": "main_font_family",
+                "name": "Main Font Family",
+                "default": "inherit",
+                "value": "inherit",
+                "type": "font"
+            },
+            "main_font_size": {
+                "id": "main_font_size",
+                "name": "Main Font Size",
+                "default": "1em",
+                "value": "1em",
+                "type": "font_size"
+            },
+            "main_line_height": {
+                "id": "main_line_height",
+                "name": "Main Line Height",
+                "default": "1.5em !important",
+                "value": "1.5em !important",
+                "type": "font_size"
+            },
+            "main_text": {
+                "id": "main_text",
+                "name": "Main Text",
+                "default": "#333333",
+                "value": "#333333",
+                "type": "color"
+            },
+            "max_width": {
+                "id": "max_width",
+                "name": "Max Width",
+                "default": "950px",
+                "value": "950px",
+                "type": "size"
+            },
+            "link": {
+                "id": "link",
+                "name": "Link",
+                "default": "#5A822B",
+                "value": "#5A822B",
+                "type": "color"
+            },
+            "header_font_family": {
+                "id": "header_font_family",
+                "name": "Header Font Family",
+                "default": "inherit",
+                "value": "inherit",
+                "type": "font"
+            },
+            "header_text": {
+                "id": "header_text",
+                "name": "Header Text",
+                "default": "#212121",
+                "value": "#212121",
+                "type": "color"
+            },
+            "header_line_height": {
+                "id": "header_line_height",
+                "name": "Header Line Height",
+                "default": "1.3em",
+                "value": "1.3em",
+                "type": "font_size"
+            },
+            "h1_size": {
+                "id": "h1_size",
+                "name": "H1 Size",
+                "default": "2em",
+                "value": "2em",
+                "type": "font_size"
+            },
+            "h2_size": {
+                "id": "h2_size",
+                "name": "H2 Size",
+                "default": "1.8em",
+                "value": "1.8em",
+                "type": "font_size"
+            },
+            "h3_size": {
+                "id": "h3_size",
+                "name": "H3 Size",
+                "default": "1.2em",
+                "value": "1.2em",
+                "type": "font_size"
+            },
+            "h4_size": {
+                "id": "h4_size",
+                "name": "H4 Size",
+                "default": "1em",
+                "value": "1em",
+                "type": "font_size"
+            },
+            "h5_size": {
+                "id": "h5_size",
+                "name": "H5 Size",
+                "default": "1em",
+                "value": "1em",
+                "type": "font_size"
+            },
+            "h6_size": {
+                "id": "h6_size",
+                "name": "H6 Size",
+                "default": "1em",
+                "value": "1em",
+                "type": "font_size"
+            },
+            "border_style": {
+                "id": "border_style",
+                "name": "Border Style",
+                "default": "solid",
+                "value": "solid",
+                "type": "border"
+            },
+            "border_width": {
+                "id": "border_width",
+                "name": "Border Width",
+                "default": "1px",
+                "value": "1px",
+                "type": "size"
+            },
+            "border": {
+                "id": "border",
+                "name": "Border",
+                "default": "#ffffff",
+                "value": "#ffffff",
+                "type": "color"
+            }
+        },
+        "css": ".wprm-recipe-template-template-1 {\n    margin: 0 auto;\n    background-color: %wprm_background%;\n    font-family: %wprm_main_font_family%;\n    font-size: %wprm_main_font_size%;\n    line-height: %wprm_main_line_height%;\n    color: %wprm_main_text%;\n    max-width: %wprm_max_width%;\n}\n\n.wprm-recipe-print-inline-button {\n  font-weight: 600;\n  float: right;\n  z-index: 2;\n  position: relative;\n}\n\n.wprm-recipe-print-inline-button:hover {\n  background: #098CE9 !important;\n  color: #fff !important;\n}\n.wprm-recipe-template-template-1 a {\n    color: %wprm_link%;\n}\n.wprm-recipe-servings-label::before {\n  content: '';\n  background-image: url(\"data:image/svg+xml,%3Csvg width='20' height='21' viewBox='0 0 20 21' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M3.33335 13.5033C2.89133 13.5033 2.4674 13.6789 2.15484 13.9915C1.84228 14.304 1.66669 14.7279 1.66669 15.17V16.0033C1.66669 16.2243 1.75448 16.4363 1.91076 16.5926C2.06704 16.7488 2.27901 16.8366 2.50002 16.8366H17.5C17.721 16.8366 17.933 16.7488 18.0893 16.5926C18.2456 16.4363 18.3334 16.2243 18.3334 16.0033V15.17C18.3334 14.7279 18.1578 14.304 17.8452 13.9915C17.5326 13.6789 17.1087 13.5033 16.6667 13.5033M3.33335 13.5033H16.6667M3.33335 13.5033C3.33335 11.7352 4.03573 10.0395 5.28598 8.78925C6.53622 7.53901 8.23191 6.83663 10 6.83663M16.6667 13.5033C16.6667 11.7352 15.9643 10.0395 14.7141 8.78925C13.4638 7.53901 11.7681 6.83663 10 6.83663M10 6.83663V3.5033M8.33335 3.5033H11.6667' stroke='%23098CE9' stroke-width='1.5' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E%0A\");\n  display: inline-block;\n  width: 20px;\n  height: 20px;\n}\n.wprm-recipe-calories-label::before {\n  content: '';\n  background-image: url(\"data:image/svg+xml,%3Csvg width='20' height='21' viewBox='0 0 20 21' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M11.6666 1.83655H4.99998C4.55795 1.83655 4.13403 2.01214 3.82147 2.3247C3.50891 2.63726 3.33331 3.06119 3.33331 3.50321V16.8365C3.33331 17.2786 3.50891 17.7025 3.82147 18.0151C4.13403 18.3276 4.55795 18.5032 4.99998 18.5032H15C15.442 18.5032 15.8659 18.3276 16.1785 18.0151C16.4911 17.7025 16.6666 17.2786 16.6666 16.8365V6.83655L11.6666 1.83655Z' stroke='%23098CE9' stroke-width='1.5' stroke-linecap='round' stroke-linejoin='round'/%3E%3Cpath d='M11.6667 1.83655V6.83655H16.6667' stroke='%23098CE9' stroke-width='1.5' stroke-linecap='round' stroke-linejoin='round'/%3E%3Cpath d='M13.3334 11.0033H6.66669' stroke='%23098CE9' stroke-width='1.5' stroke-linecap='round' stroke-linejoin='round'/%3E%3Cpath d='M13.3334 14.3365H6.66669' stroke='%23098CE9' stroke-width='1.5' stroke-linecap='round' stroke-linejoin='round'/%3E%3Cpath d='M8.33335 7.66992H7.50002H6.66669' stroke='%23098CE9' stroke-width='1.5' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E%0A\");  \n  display: inline-block;\n  width: 20px;\n  height: 20px;\n}\n.wprm-recipe-total-time-label::before {\n  content: '';\n  background-image: url(\"data:image/svg+xml,%3Csvg width='20' height='21' viewBox='0 0 20 21' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M10 7.66992V11.0033L11.6667 12.6699M4.16669 2.66992L1.66669 5.16992M18.3334 5.16992L15.8334 2.66992M5.31669 15.7533L3.33335 17.6699M14.7 15.7283L16.6667 17.6699M16.6667 11.0033C16.6667 14.6852 13.6819 17.6699 10 17.6699C6.31812 17.6699 3.33335 14.6852 3.33335 11.0033C3.33335 7.32136 6.31812 4.33659 10 4.33659C13.6819 4.33659 16.6667 7.32136 16.6667 11.0033Z' stroke='%23098CE9' stroke-width='1.5' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E%0A\");  \n  width: 20px;\n  height: 20px;\n  display: inline-block;\n}\n.wprm-recipe-cook-time-label::before {\n  content: '';\n  background-image: url(\"data:image/svg+xml,%3Csvg width='20' height='21' viewBox='0 0 20 21' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M7.08335 12.2533C7.63589 12.2533 8.16579 12.0338 8.55649 11.6431C8.94719 11.2524 9.16669 10.7225 9.16669 10.1699C9.16669 9.01992 8.75002 8.50326 8.33335 7.66992C7.44002 5.88409 8.14669 4.29159 10 2.66992C10.4167 4.75326 11.6667 6.75326 13.3334 8.08659C15 9.41992 15.8334 11.0033 15.8334 12.6699C15.8334 13.436 15.6825 14.1945 15.3893 14.9022C15.0962 15.61 14.6665 16.253 14.1248 16.7947C13.5831 17.3364 12.9401 17.7661 12.2323 18.0592C11.5246 18.3524 10.7661 18.5033 10 18.5033C9.23398 18.5033 8.47543 18.3524 7.7677 18.0592C7.05997 17.7661 6.41691 17.3364 5.87523 16.7947C5.33356 16.253 4.90388 15.61 4.61072 14.9022C4.31757 14.1945 4.16669 13.436 4.16669 12.6699C4.16669 11.7091 4.52752 10.7583 5.00002 10.1699C5.00002 10.7225 5.21951 11.2524 5.61021 11.6431C6.00092 12.0338 6.53082 12.2533 7.08335 12.2533Z' stroke='%23098CE9' stroke-width='1.5' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E%0A\");\n  width: 20px;\n  height: 20px;\n  display: inline-block;\n}\n.wprm-recipe-servings-label, .wprm-recipe-cook-time-label, .wprm-recipe-total-time-label, .wprm-recipe-calories-label {\n  display: inline-flex;\n  gap: 8px;\n  align-items: center;\n}\n.wprm-recipe-ingredients-container, .wprm-recipe-instructions-container, .wprm-recipe-notes-container {\n  margin-bottom: 30px;\n}\n.wprm-recipe-servings-container, .wprm-recipe-nutrition-container, .wprm-recipe-time-container {\n    display: inline-flex;\n    gap: 8px;\n    align-items: center;\n    margin-bottom: 8px;\n    margin-right: 20px;\n}\n.wprm-recipe-template-template-1 p, .wprm-recipe-template-template-1 li {\n    font-family: %wprm_main_font_family%;\n    font-size: 1em !important;\n    line-height: %wprm_main_line_height%;\n}\n.wprm-recipe-template-template-1 li {\n    margin: 0 0 12px 15px !important;\n    padding: 0 !important;\n}\n.wprm-recipe-template-template-1 li.wprm-recipe-ingredient {\n  \tmargin-left: 0 !important;\n}\n.wprm-recipe-ingredient input[type=checkbox]:checked ~ span {\n  text-decoration: line-through;\n  opacity: 0.7;\n}\n.wprm-recipe-ingredient input[type=checkbox] {\n  margin: 0;\n  margin-right: 8px;\n  border-radius: 2px;\n  border-color: #666666;\n  position: relative;\n  box-shadow: none;\n  width: 19px;\n  height: 19px;\n  margin-top: -4px;\n  border-width: 2px;\n}\n.wprm-recipe-ingredient input[type=checkbox]::before {\n    position: absolute;\n    left: 0;\n    right: 0;\n    top: 0;\n    bottom: 0;\n    content: \"\";\n  \twidth: 100%;\n}\n.wprm-recipe-ingredient input[type=checkbox]:checked {\n\tborder-color: #098CE9;\n}\n.wprm-recipe-ingredient input[type=checkbox]:checked:before {\n  background-image: url(\"data:image/svg+xml,%3Csvg width='11' height='9' viewBox='0 0 11 9' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M9.60306 0.383759L4.32171 6.60194L1.38362 3.67467C1.05917 3.3474 0.55447 3.38376 0.230018 3.67467C-0.0944332 4.00194 -0.058383 4.51103 0.230018 4.8383L3.52861 8.09285C3.74491 8.31103 4.03331 8.42012 4.32171 8.42012C4.61011 8.42012 4.89851 8.31103 5.11481 8.09285L10.7567 1.58376C11.0811 1.25649 11.0811 0.747395 10.7567 0.420122C10.4322 0.0928495 9.92751 0.09285 9.60306 0.383759Z' fill='%23098CE9'/%3E%3C/svg%3E%0A\") !important;\n  background-position: center !important;\n  background-repeat: no-repeat !important;\n}\n.rtl .wprm-recipe-template-template-1 li {\n    margin: 0 15px 0 0 !important;\n}\n.wprm-recipe-template-template-1 ol, .wprm-recipe-template-template-1 ul {\n    margin: 0 !important;\n    padding: 0 !important;\n}\n.wprm-recipe-template-template-1 br {\n    display: none;\n}\n.wprm-recipe-template-template-1 .wprm-recipe-name,\n.wprm-recipe-template-template-1 .wprm-recipe-header {\n    font-family: %wprm_header_font_family%;\n    color: %wprm_header_text%;\n    line-height: %wprm_header_line_height%;\t\n    position: relative;\n}\n.wprm-recipe-template-template-1 .wprm-recipe-header {\n  margin-bottom: 30px !important;\n  font-size: 24px;\n  text-transform: capitalize !important;\n  font-weight: 700;\n  font-family: var(--thim-font-title-font-family);\n}\n\n.wprm-recipe-ingredients-container {\n  border: 1px solid #E2E0DB;\n  padding: 30px;\n  border-radius: 8px 8px 0 0;\n  margin-bottom: 0;\n  border-bottom: 0;\n}\n\n.wprm-recipe-image img {\n  width: 100%;\n  margin-bottom: 30px;\n  border-radius: 0 0 8px 8px;\n}\n\n.wprm-recipe-template-template-1 h1,\n.wprm-recipe-template-template-1 h2,\n.wprm-recipe-template-template-1 h3,\n.wprm-recipe-template-template-1 h4,\n.wprm-recipe-template-template-1 h5,\n.wprm-recipe-template-template-1 h6 {\n    font-family: %wprm_header_font_family%;\n    color: %wprm_header_text%;\n    line-height: %wprm_header_line_height%;\n    margin: 0 !important;\n    padding: 0 !important;\n}\n\n.wprm-recipe-template-template-1 h1 {\n    font-size: %wprm_h1_size%;\n}\n.wprm-recipe-template-template-1 h2 {\n    font-size: %wprm_h2_size%;\n}\n.wprm-recipe-template-template-1 h3 {\n    font-size: %wprm_h3_size%;\n}\n.wprm-recipe-template-template-1 h4 {\n    font-size: %wprm_h4_size%;\n}\n.wprm-recipe-template-template-1 h5 {\n    font-size: %wprm_h5_size%;\n}\n.wprm-recipe-template-template-1 h6 {\n    font-size: %wprm_h6_size%;\n}.wprm-recipe-template-template-1 {\n    font-size: %wprm_main_font_size%;\n\tborder-style: %wprm_border_style%;\n\tborder-width: %wprm_border_width%;\n\tborder-color: %wprm_border%;\n    background-color: %wprm_background%;\n    max-width: %wprm_max_width%;\n  \tborder-radius: 8px;\n}\n.wprm-recipe-template-template-1 a {\n    color: %wprm_link%;\n}\n.wprm-recipe-template-template-1 .wprm-recipe-name {\n    line-height: 1.3em;\n    font-weight: bold;\n}\n.wprm-recipe-servings-toggle {\n  display: inline-flex;\n  border: none;\n  align-items: center;\n  position: absolute;\n  right: 0;\n  left: auto;\n  top: 0;\n}\n.wprm-recipe-servings-toggle h5 {\n  margin-right: 12px !important;\n}\n.wprm-recipe-servings-toggle button.wprm-toggle {\n  border: 1px solid #DDDDDD;\n  width: 36px;\n  height: 36px;\n  font-weight: 400;\n  padding: 0;\n  border-right: 0;\n}\n.wprm-recipe-servings-toggle button.wprm-toggle:last-child {\n   border-right: 1px solid #DDDDDD;\n  border-radius: 0 8px 8px 0;\n}\n.wprm-recipe-servings-toggle button.wprm-toggle:nth-child(2){\n  border-radius: 8px 0 0 8px;\n}\n.wprm-recipe-servings-toggle button.wprm-toggle.wprm-toggle-active {\n  background: #098CE9;\n  border-color: #098CE9;\n  color: #fff;\n}\n.wprm-recipe-template-template-1 .wprm-template-chic-buttons {\n\tclear: both;\n    font-size: 0.9em;\n    text-align: center;\n}\n.wprm-recipe-template-template-1 .wprm-template-chic-buttons .wprm-recipe-icon {\n    margin-right: 5px;\n}\n.wprm-recipe-template-template-1 .wprm-nutrition-label-container {\n\tfont-size: 0.9em;\n}\n.wprm-recipe-template-template-1 .wprm-call-to-action {\n\tborder-radius: 3px;\n}\n.wprm-recipe-video-container iframe {\n  \tborder-radius: 8px;\n}\n.comment-form-wprm-rating label {\n  display: none;\n}\n.content-comment .wprm-comment-rating {\n  filter: sepia(1) saturate(1000%) hue-rotate(370deg) brightness(3);\n  margin: 0 0 10px 0; \n}\n@media (max-width: 1024px){\n  .wprm-container-header {\n    gap: 20px;\n    flex-direction: column;\n  }\n  .wprm-container-header .wprm-recipe-image {\n      max-width: 200px;\n      min-width: auto;\n  }\n  .wprm-recipe-times-container, .wprm-recipe-custom-container {\n      display: flex;\n      column-gap: 20px;\n      flex-wrap: wrap;\n  }\n}\n@media (max-width: 500px){\n  .wprm-recipe-template-template-1 .wprm-recipe-ingredients-header {\n       padding-top: 60px !important;\n  }\n  .wprm-recipe-servings-toggle {\n    left: 0;\n    right: auto;\n  }\n}"
+    }
+}
