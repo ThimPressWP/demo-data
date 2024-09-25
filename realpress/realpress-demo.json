@@ -1,13 +1,14 @@
 {
     "demo-main": {
         "title": "Demo Main",
-        "demo_url": "https:\/\/realpress.thimpress.com\/demo-agency",
-        "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/realpress\/images\/demo-agency.png"
-    },
-    "demo-classic": {
-        "title": "Demo Classic",
         "demo_url": "https:\/\/realpress.thimpress.com\/demo-main",
         "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/realpress\/images\/demo-main.png"
+    },
+    "demo-agency": {
+        "title": "Demo Agency",
+        "demo_url": "https:\/\/realpress.thimpress.com\/demo-agency",
+        "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/realpress\/images\/demo-agency.png"
+        
     },
     "demo-1": {
         "title": "Demo 1",
