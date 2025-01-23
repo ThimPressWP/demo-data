@@ -1,22 +1,22 @@
 {
     "demo-01": {
         "title": "Demo 01",
-        "thumbnail_url": "https:\/\/updates.thimpress.com\/wp-content\/uploads\/2017\/07\/hotelwp-demo-01.jpg",
+        "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/hotel-wp\/images\/hotelwp-demo-01.png",
         "demo_url": "http:\/\/luxstay.thimpress.com\/demo-1"
     },
     "demo-02": {
         "title": "Demo 02",
-        "thumbnail_url": "https:\/\/updates.thimpress.com\/wp-content\/uploads\/2017\/07\/hotelwp-demo-02.jpg",
+        "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/hotel-wp\/images\/hotelwp-demo-02.png",
         "demo_url": "http:\/\/luxstay.thimpress.com\/demo-2\/"
     },
     "demo-03": {
         "title": "Demo 03",
-        "thumbnail_url": "https:\/\/updates.thimpress.com\/wp-content\/uploads\/2017\/07\/hotelwp-demo-03.jpg",
+        "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/hotel-wp\/images\/hotelwp-demo-03.png",
         "demo_url": "http:\/\/luxstay.thimpress.com\/demo-3\/"
     },
     "demo-rtl": {
         "title": "Demo RTL",
-        "thumbnail_url": "https:\/\/updates.thimpress.com\/wp-content\/uploads\/2017\/07\/hotelwp-demo-rtl.jpg",
+        "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/hotel-wp\/images\/hotelwp-demo-01.png",
         "demo_url": "http:\/\/luxstay.thimpress.com\/demo-rtl\/",
         "category": "RTL"
     }
