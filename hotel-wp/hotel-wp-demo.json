@@ -16,7 +16,7 @@
     },
     "demo-rtl": {
         "title": "Demo RTL",
-        "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/hotel-wp\/images\/hotelwp-demo-01.png",
+        "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/hotel-wp\/images\/hotelwp-demo-rtl.png",
         "demo_url": "http:\/\/luxstay.thimpress.com\/demo-rtl\/",
         "category": "RTL"
     }
