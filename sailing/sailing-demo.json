@@ -5,6 +5,12 @@
         "label": "New",
         "demo_url": "http:\/\/sailing.thimpress.com\/demo-11"
     },
+"demo-12": {
+        "title": "Mountain Hotel",
+        "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/sailing\/images\/demo-12.png",
+	"label": "New",
+        "demo_url": "http:\/\/sailing.thimpress.com\/demo-mountain-hotel"
+    },  
     "demo-09": {
         "title": "Island Retreat",
         "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/sailing\/images\/demo-10.jpg",
@@ -51,5 +57,4 @@
         "demo_url": "http:\/\/sailing.thimpress.com\/demo-7",
         "category": "RTL"
     }
-    
 }
