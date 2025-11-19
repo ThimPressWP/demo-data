@@ -1,25 +1,31 @@
 {
+    "demo-main": {
+      "title": "Demo Main",
+      "demo_url": "https://elearningwp.thimpress.com/main-demo",
+      "thumbnail_url": "https://thimpresswp.github.io/demo-data/elearningwp/demos/assets/demo-main/screenshot.jpg",
+      "category": ""
+    },
     "demo-01": {
       "title": "Demo 01",
-      "demo_url": "http://elearningwp.thimpress.com/",
+      "demo_url": "https://elearningwp.thimpress.com/",
       "thumbnail_url": "https://thimpresswp.github.io/demo-data/elearningwp/demos/assets/demo-01/screenshot.jpg",
       "category": ""
     },
     "demo-02": {
       "title": "Demo 02",
-      "demo_url": "http://elearningwp.thimpress.com/demo-02",
+      "demo_url": "https://elearningwp.thimpress.com/demo-02",
       "thumbnail_url": "https://thimpresswp.github.io/demo-data/elearningwp/demos/assets/demo-02/screenshot.jpg",
       "category": ""
     },
     "demo-03": {
       "title": "Demo 03",
-      "demo_url": "http://elearningwp.thimpress.com/demo-03",
+      "demo_url": "https://elearningwp.thimpress.com/demo-03",
       "thumbnail_url": "https://thimpresswp.github.io/demo-data/elearningwp/demos/assets/demo-03/screenshot.jpg",
       "category": ""
     },
     "demo-04": {
       "title": "Demo 04",
-      "demo_url": "http://elearningwp.thimpress.com/demo-04",
+      "demo_url": "https://elearningwp.thimpress.com/demo-04",
       "thumbnail_url": "https://thimpresswp.github.io/demo-data/elearningwp/demos/assets/demo-04/screenshot.jpg",
       "category": ""
     }
