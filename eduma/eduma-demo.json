@@ -4,17 +4,17 @@
     "demo_url": "https:\/\/eduma.thimpress.com\/demo-main\/",
     "thumbnail_url": "https:\/\/updates.thimpress.com\/wp-content\/uploads\/2017\/06\/eduma-demo-01.jpg",
     "category": "popular"
-  },
- "Demo-yoga": {
-    "title": "Demo Yoga",
-    "demo_url": "https:\/\/eduma.thimpress.com\/demo-yoga\/",
-    "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/eduma\/images\/demo-yoga.jpg",
-    "category": "popular"
   },	
   "demo-online-learning": {
     "title": "Demo Online Learning",
     "demo_url": "https:\/\/eduma.thimpress.com\/demo-online-learning\/",
     "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/eduma\/images\/demo-online-learning.jpg",
+    "category": "popular"
+  },
+ "Demo-yoga": {
+    "title": "Demo Yoga Coaching",
+    "demo_url": "https:\/\/eduma.thimpress.com\/demo-yoga\/",
+    "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/eduma\/images\/demo-yoga.jpg",
     "category": "popular"
   },
   "demo-marketplace": {
@@ -26,7 +26,7 @@
   "demo-learning-platform": {
     "title": "Demo Learning Platform",
     "demo_url": "https:\/\/eduma.thimpress.com\/demo-learning-platform\/",
-    "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/eduma\/images\/demo-learning-platform.jpg",
+    "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/eduma\/images\/demo-learning-platform-1.jpg",
     "category": "school"
   },
   "demo-education-news": {
@@ -38,7 +38,7 @@
   "demo-ecommerce": {
     "title": "Demo Ecommerce",
     "demo_url": "https:\/\/eduma.thimpress.com\/demo-ecommerce\/",
-    "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/eduma\/images\/demo-ecommerce.jpg",
+    "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/eduma\/images\/demo-ecommerce-1.jpg",
     "category": "popular"
   },
   "demo-classic": {
