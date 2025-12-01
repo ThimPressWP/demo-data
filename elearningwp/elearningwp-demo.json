@@ -1,13 +1,13 @@
 {
     "demo-main": {
       "title": "Demo Main",
-      "demo_url": "https://elearningwp.thimpress.com/main-demo",
+      "demo_url": "https://elearningwp.thimpress.com/demo-main",
       "thumbnail_url": "https://thimpresswp.github.io/demo-data/elearningwp/demos/assets/demo-main/screenshot.jpg",
       "category": ""
     },
     "demo-01": {
       "title": "Demo 01",
-      "demo_url": "https://elearningwp.thimpress.com/",
+      "demo_url": "https://elearningwp.thimpress.com/demo-01",
       "thumbnail_url": "https://thimpresswp.github.io/demo-data/elearningwp/demos/assets/demo-01/screenshot.jpg",
       "category": ""
     },
