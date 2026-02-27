@@ -26,7 +26,7 @@
   "demo-learning-platform": {
     "title": "Demo Learning Platform",
     "demo_url": "https:\/\/eduma.thimpress.com\/demo-learning-platform\/",
-    "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/eduma\/images\/demo-learning-platform-1.jpg",
+    "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/eduma\/images\/demo-learning-platform.jpg",
     "category": "school"
   },
   "demo-education-news": {
@@ -38,7 +38,7 @@
   "demo-ecommerce": {
     "title": "Demo Ecommerce",
     "demo_url": "https:\/\/eduma.thimpress.com\/demo-ecommerce\/",
-    "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/eduma\/images\/demo-ecommerce-1.jpg",
+    "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/eduma\/images\/demo-ecommerce.jpg",
     "category": "popular"
   },
   "demo-classic": {
