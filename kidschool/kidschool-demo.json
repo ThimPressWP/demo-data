@@ -1,4 +1,9 @@
 {
+    "demo-main": {
+        "title": "Demo Main",
+        "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/kidschool\/images\/demo-main.jpg",
+        "demo_url": "https:\/\/kindergarten.thimpress.com\/demo-main\/"
+    },	
     "demo-01": {
         "title": "Demo 01",
         "thumbnail_url": "https:\/\/updates.thimpress.com\/wp-content\/uploads\/2019\/03\/demo-kinder-1.jpg",
