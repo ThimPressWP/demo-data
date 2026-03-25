@@ -1,227 +1,227 @@
 {
   "demo-main": {
-    "title": "Demo Main",
+    "title": "Main",
     "demo_url": "https:\/\/eduma.thimpress.com\/demo-main\/",
     "thumbnail_url": "https:\/\/updates.thimpress.com\/wp-content\/uploads\/2017\/06\/eduma-demo-01.jpg",
     "category": "popular"
   },	
   "demo-online-learning": {
-    "title": "Demo Online Learning",
+    "title": "Online Learning",
     "demo_url": "https:\/\/eduma.thimpress.com\/demo-online-learning\/",
     "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/eduma\/images\/demo-online-learning.jpg",
     "category": "popular"
   },
  "Demo-yoga": {
-    "title": "Demo Yoga Coaching",
+    "title": "Yoga Coaching",
     "demo_url": "https:\/\/eduma.thimpress.com\/demo-yoga\/",
     "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/eduma\/images\/demo-yoga.jpg",
     "category": "popular"
   },
   "demo-marketplace": {
-    "title": "Demo Marketplace",
+    "title": "Marketplace",
     "demo_url": "https:\/\/eduma.thimpress.com\/demo-marketplace\/",
     "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/eduma\/images\/demo-marketplace.jpg",
     "category": "popular"
   },
   "demo-learning-platform": {
-    "title": "Demo Learning Platform",
+    "title": "Learning Platform",
     "demo_url": "https:\/\/eduma.thimpress.com\/demo-learning-platform\/",
     "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/eduma\/images\/demo-learning-platform.jpg",
     "category": "school"
   },
   "demo-education-news": {
-    "title": "Demo Education News",
+    "title": "Education News",
     "demo_url": "https:\/\/eduma.thimpress.com\/demo-education-news\/",
     "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/eduma\/images\/demo-education-news.jpg",
     "category": "popular"
   },
   "demo-ecommerce": {
-    "title": "Demo Ecommerce",
+    "title": "Ecommerce",
     "demo_url": "https:\/\/eduma.thimpress.com\/demo-ecommerce\/",
     "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/eduma\/images\/demo-ecommerce.jpg",
     "category": "popular"
   },
   "demo-classic": {
-    "title": "Demo Classic",
+    "title": "Classic",
     "demo_url": "https:\/\/eduma.thimpress.com\/demo-classic\/",
     "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/eduma\/images\/demo-classic.jpg",
     "category": "popular"
   },
   "demo-elegant": {
-    "title": "Demo Elegant",
+    "title": "Elegant",
     "demo_url": "https:\/\/eduma.thimpress.com\/demo-elegant\/",
     "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/eduma\/images\/demo-elegant.jpg",
     "category": "popular"
   },
   "demo-02": {
-    "title": "Demo Coursera",
+    "title": "Coursera",
     "demo_url": "https:\/\/eduma.thimpress.com\/demo-coursera\/",
     "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/eduma\/images\/demo-coursera.jpg",
     "category": "academy"
   },
   "demo-03": {
-    "title": "Demo Online School",
+    "title": "Online School",
     "demo_url": "https:\/\/eduma.thimpress.com\/demo-online-school\/",
     "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/eduma\/images\/demo-online-school.jpg",
     "category": "school"
   },
   "demo-university-3": {
-    "title": "Demo Ivy League",
+    "title": "Ivy League",
     "demo_url": "https:\/\/eduma.thimpress.com\/demo-ivy-league\/",
     "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/eduma\/images\/demo-ivy-league.jpg",
     "category": "university"
   },
 
   "demo-edume": {
-    "title": "Demo Udemy",
+    "title": "Udemy",
     "demo_url": "https:\/\/eduma.thimpress.com\/demo-udemy\/",
     "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/eduma\/images\/demo-udemy.jpg",
     "category": "academy"
   },
   "demo-university-4": {
-    "title": "Demo Stanford",
+    "title": "Stanford",
     "demo_url": "https:\/\/eduma.thimpress.com\/demo-stanford\/",
     "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/eduma\/images\/demo-stanford.jpg",
     "category": "university"
   },
 
   "demo-grad-school": {
-    "title": "Demo Grad School",
+    "title": "Grad School",
     "demo_url": "https:\/\/eduma.thimpress.com\/demo-grad-school\/",
     "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/eduma\/images\/demo-grad-school.jpg",
     "category": "university"
   },
   "demo-edtech": {
-    "title": "Demo Edtech",
+    "title": "Edtech",
     "demo_url": "https:\/\/eduma.thimpress.com\/demo-edtech\/",
     "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/eduma\/images\/demo-edtech.jpg",
     "category": "technology"
   },
   "demo-courses-hub": {
-    "title": "Demo Courses Hub",
+    "title": "Courses Hub",
     "demo_url": "https:\/\/eduma.thimpress.com\/demo-courses-hub\/",
     "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/eduma\/images\/demo-courses-hub.jpg",
     "category": "academy"
   },
   "demo-university": {
-    "title": "Demo University",
+    "title": "University",
     "demo_url": "https:\/\/eduma.thimpress.com\/demo-university\/",
     "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/eduma\/images\/demo-university.jpg",
     "category": "university"
   },
   "demo-university-home": {
-    "title": "Demo University - New",
+    "title": "University - New",
     "demo_url": "https:\/\/eduma.thimpress.com\/university\/",
     "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/eduma\/images\/demo-university-home.jpg",
     "category": "university"
   },
   "demo-university-home-1": {
-    "title": "Demo University - Home 1",
+    "title": "University - Home 1",
     "demo_url": "https:\/\/eduma.thimpress.com\/university\/home-1\/",
     "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/eduma\/images\/demo-university-home-1.jpg",
     "category": "university"
   },
   "demo-university-home-2": {
-    "title": "Demo University - Home 2",
+    "title": "University - Home 2",
     "demo_url": "https:\/\/eduma.thimpress.com\/university\/home-2\/",
     "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/eduma\/images\/demo-university-home-2.jpg",
     "category": "university"
   },
   "demo-university-home-3": {
-    "title": "Demo University - Home 3",
+    "title": "University - Home 3",
     "demo_url": "https:\/\/eduma.thimpress.com\/university\/home-3\/",
     "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/eduma\/images\/demo-university-home-3.jpg",
     "category": "university"
   },
 
   "demo-tech-camp": {
-    "title": "Demo Tech Camp",
+    "title": "Tech Camp",
     "demo_url": "https:\/\/eduma.thimpress.com\/demo-tech-camp\/",
     "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/eduma\/images\/demo-techcamp.jpg",
     "category": "technology"
   },
   "demo-languages-school": {
-    "title": "Demo Languages School",
+    "title": "Languages School",
     "demo_url": "https:\/\/eduma.thimpress.com\/demo-languages-school\/",
     "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/eduma\/images\/demo-languages-school.jpg",
     "category": "school"
   },
   "demo-tutor-lms": {
-    "title": "Demo Tutor lms",
+    "title": "Tutor lms",
     "demo_url": "https:\/\/eduma.thimpress.com\/demo-tutor-lms\/",
     "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/eduma\/images\/demo-tutor-lms.jpg",
     "category": "popular"
   },
   "demo-rtl": {
-    "title": "Demo RTL",
+    "title": "RTL",
     "demo_url": "https:\/\/eduma.thimpress.com\/demo-rtl\/",
     "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/eduma\/images\/demo-rtl.jpg",
     "category": "multi-Language"
   },
 
   "demo-one-instructor": {
-    "title": "Demo One Instructor",
+    "title": "One Instructor",
     "demo_url": "https:\/\/eduma.thimpress.com\/demo-one-instructor\/",
     "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/eduma\/images\/demo-one-instructor.jpg",
     "category": "personal"
   },
   "demo-restaurant": {
-    "title": "Demo Restaurant",
+    "title": "Restaurant",
     "demo_url": "https:\/\/eduma.thimpress.com\/demo-restaurant\/",
     "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/eduma\/images\/demo-restaurant.jpg",
     "category": "popular"
   },
   "demo-wpml": {
-    "title": "Demo Multilingual Eduma",
+    "title": "Multilingual Eduma",
     "demo_url": "https:\/\/eduma.thimpress.com\/demo-wpml\/es\/",
     "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/eduma\/images\/demo-wpml.jpg",
     "category": "multi-Language"
   },
 
   "demo-kindergarten": {
-    "title": "Demo Kindergarten",
+    "title": "Kindergarten",
     "demo_url": "https:\/\/eduma.thimpress.com\/demo-kindergarten\/",
     "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/eduma\/images\/demo-kindergarten.jpg",
     "category": "school"
   },
   "demo-react": {
-    "title": "Demo React",
+    "title": "React",
     "demo_url": "https:\/\/eduma.thimpress.com\/demo-react\/",
     "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/eduma\/images\/demo-react.jpg",
     "category": "technology"
   },
   "demo-university-2": {
-    "title": "Demo Modern University",
+    "title": "Modern University",
     "demo_url": "https:\/\/eduma.thimpress.com\/demo-modern-university\/",
     "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/eduma\/images\/demo-modern-university.jpg",
     "category": "university"
   },
   "demo-one-course": {
-    "title": "Demo One Course",
+    "title": "One Course",
     "demo_url": "https:\/\/eduma.thimpress.com\/demo-one-course\/",
     "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/eduma\/images\/demo-one-course.jpg",
     "category": "personal"
   },
   "demo-kid-art": {
-    "title": "Demo Kid Art",
+    "title": "Kid Art",
     "demo_url": "https:\/\/eduma.thimpress.com\/demo-kid-art\/",
     "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/eduma\/images\/demo-kid-art.jpg",
     "category": "academy"
   },
   "demo-new-art": {
-    "title": "Demo New Art",
+    "title": "New Art",
     "demo_url": "https:\/\/eduma.thimpress.com\/demo-new-art\/",
     "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/eduma\/images\/demo-new-art.jpg",
     "category": "academy"
   },
   "demo-crypto": {
-    "title": "Demo Crypto",
+    "title": "Crypto",
     "demo_url": "https:\/\/eduma.thimpress.com\/demo-crypto\/",
     "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/eduma\/images\/demo-crypto.jpg",
     "category": "technology"
   },
   "demo-instructor": {
-    "title": "Demo New Instructor",
+    "title": "New Instructor",
     "demo_url": "https:\/\/eduma.thimpress.com\/demo-instructor\/",
     "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/eduma\/images\/demo-instructor.jpg",
     "category": "personal"
@@ -239,7 +239,7 @@
     "category": "landing page"
   },
   "demo-cms": {
-    "title": "Demo Coming Soon",
+    "title": "Coming Soon",
     "demo_url": "#",
     "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/eduma\/images\/demo-coming-soon.jpg",
     "category": ""
