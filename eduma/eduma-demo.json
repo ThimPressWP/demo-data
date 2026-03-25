@@ -4,14 +4,14 @@
     "demo_url": "https:\/\/eduma.thimpress.com\/demo-main\/",
     "thumbnail_url": "https:\/\/updates.thimpress.com\/wp-content\/uploads\/2017\/06\/eduma-demo-01.jpg",
     "category": "popular"
-  },	
+  },
   "demo-online-learning": {
     "title": "Online Learning",
     "demo_url": "https:\/\/eduma.thimpress.com\/demo-online-learning\/",
     "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/eduma\/images\/demo-online-learning.jpg",
     "category": "popular"
   },
- "Demo-yoga": {
+  "Demo-yoga": {
     "title": "Yoga Coaching",
     "demo_url": "https:\/\/eduma.thimpress.com\/demo-yoga\/",
     "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/eduma\/images\/demo-yoga.jpg",
@@ -27,6 +27,12 @@
     "title": "Learning Platform",
     "demo_url": "https:\/\/eduma.thimpress.com\/demo-learning-platform\/",
     "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/eduma\/images\/demo-learning-platform.jpg",
+    "category": "school"
+  },
+  "demo-preschool": {
+    "title": "Preschool",
+    "demo_url": "https:\/\/eduma.thimpress.com\/demo-preschool\/",
+    "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/eduma\/images\/demo-preschool.jpg",
     "category": "school"
   },
   "demo-education-news": {
@@ -71,7 +77,6 @@
     "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/eduma\/images\/demo-ivy-league.jpg",
     "category": "university"
   },
-
   "demo-edume": {
     "title": "Udemy",
     "demo_url": "https:\/\/eduma.thimpress.com\/demo-udemy\/",
@@ -84,7 +89,6 @@
     "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/eduma\/images\/demo-stanford.jpg",
     "category": "university"
   },
-
   "demo-grad-school": {
     "title": "Grad School",
     "demo_url": "https:\/\/eduma.thimpress.com\/demo-grad-school\/",
@@ -133,7 +137,6 @@
     "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/eduma\/images\/demo-university-home-3.jpg",
     "category": "university"
   },
-
   "demo-tech-camp": {
     "title": "Tech Camp",
     "demo_url": "https:\/\/eduma.thimpress.com\/demo-tech-camp\/",
@@ -158,7 +161,6 @@
     "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/eduma\/images\/demo-rtl.jpg",
     "category": "multi-Language"
   },
-
   "demo-one-instructor": {
     "title": "One Instructor",
     "demo_url": "https:\/\/eduma.thimpress.com\/demo-one-instructor\/",
@@ -177,7 +179,6 @@
     "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/eduma\/images\/demo-wpml.jpg",
     "category": "multi-Language"
   },
-
   "demo-kindergarten": {
     "title": "Kindergarten",
     "demo_url": "https:\/\/eduma.thimpress.com\/demo-kindergarten\/",
