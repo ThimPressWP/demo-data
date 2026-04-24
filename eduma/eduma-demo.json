@@ -44,7 +44,7 @@
   "demo-legacy": {
     "title": "Legacy",
     "demo_url": "https:\/\/eduma.thimpress.com\/demo-legacy\/",
-    "thumbnail_url": "https:\/\/updates.thimpress.com\/wp-content\/uploads\/2017\/06\/demo-legacy.jpg",
+    "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/eduma\/images\/demo-legacy.jpg",
     "category": "popular"
   },
   "demo-classic": {
