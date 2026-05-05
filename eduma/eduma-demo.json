@@ -47,12 +47,6 @@
     "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/eduma\/images\/demo-legacy.jpg",
     "category": "popular"
   },
-   "demo-global-university": {
-    "title": "Global University",
-    "demo_url": "https:\/\/eduma.thimpress.com\/demo-global-university\/",
-    "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/eduma\/images\/demo-global-university.jpg",
-    "category": "university"
-  },
   "demo-classic": {
     "title": "Classic",
     "demo_url": "https:\/\/eduma.thimpress.com\/demo-classic\/",
