@@ -1,4 +1,10 @@
 {
+  "demo-main": {
+    "title": "Main 2026",
+    "demo_url": "https:\/\/eduma.thimpress.com\/demo-main\/",
+    "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/eduma\/images\/demo-main-2026.jpg",
+    "category": "popular"
+  },
   "demo-online-learning": {
     "title": "Online Learning",
     "demo_url": "https:\/\/eduma.thimpress.com\/demo-online-learning\/",
