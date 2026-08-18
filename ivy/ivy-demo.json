@@ -1,20 +1,26 @@
 {
     "modern-school": {
         "title": "Modern School",
-        "demo_url": "http:\/\/ivy-school.thimpress.com\/modern-school",
+        "demo_url": "https:\/\/ivy-school.thimpress.com\/modern-school",
         "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/ivy\/images\/modern-school.jpg",
         "category": ""
     },
     "digital-school": {
         "title": "Digital School",
-        "demo_url": "http:\/\/ivy-school.thimpress.com\/digital-school",
+        "demo_url": "https:\/\/ivy-school.thimpress.com\/digital-school",
         "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/ivy\/images\/digital-school.jpg",
         "category": ""
     },
     "vocational-school": {
         "title": "Vocational School",
-        "demo_url": "http:\/\/ivy-school.thimpress.com\/vocational-school",
+        "demo_url": "https:\/\/ivy-school.thimpress.com\/vocational-school",
         "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/ivy\/images\/vocational-school.jpg",
+        "category": ""
+    },
+    "academic-university": {
+        "title": "Academic University",
+        "demo_url": "https:\/\/ivy-school.thimpress.com\/academic-university",
+        "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/ivy\/images\/academic-university.jpg",
         "category": ""
     }
 }
