@@ -1,4 +1,10 @@
 {
+     "academic-university": {
+        "title": "Academic University",
+        "demo_url": "https:\/\/ivy-school.thimpress.com\/academic-university",
+        "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/ivy\/images\/academic-university.jpg",
+        "category": ""
+    },
     "modern-school": {
         "title": "Modern School",
         "demo_url": "https:\/\/ivy-school.thimpress.com\/modern-school",
@@ -15,12 +21,6 @@
         "title": "Vocational School",
         "demo_url": "https:\/\/ivy-school.thimpress.com\/vocational-school",
         "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/ivy\/images\/vocational-school.jpg",
-        "category": ""
-    },
-    "academic-university": {
-        "title": "Academic University",
-        "demo_url": "https:\/\/ivy-school.thimpress.com\/academic-university",
-        "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/ivy\/images\/academic-university.jpg",
         "category": ""
     }
 }
