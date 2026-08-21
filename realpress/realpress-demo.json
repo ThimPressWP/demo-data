@@ -8,7 +8,6 @@
         "title": "Demo Agency",
         "demo_url": "https:\/\/realpress.thimpress.com\/demo-agency",
         "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/realpress\/images\/demo-agency.png"
-        
     },
     "demo-1": {
         "title": "Demo 1",
@@ -61,14 +60,12 @@
         "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/realpress\/images\/demo-single-property.png",
         "category": "One Page"
     },
-
     "demo-single-agent": {
         "title": "Demo Single Agent",
         "demo_url": "https:\/\/realpress.thimpress.com\/single-agent",
         "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/realpress\/images\/demo-single-agent.png",
         "category": "One Page"
     },
-
     "demo-rtl": {
         "title": "Demo RTL",
         "demo_url": "https:\/\/realpress.thimpress.com\/demo-rtl",
