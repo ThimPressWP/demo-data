@@ -35,7 +35,7 @@
         "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/eduma\/images\/demo-learning-platform.jpg",
         "category": "school"
     },
-    "Demo-yoga": {
+    "demo-yoga": {
         "title": "Yoga Coaching",
         "demo_url": "https:\/\/eduma.thimpress.com\/demo-yoga\/",
         "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/eduma\/images\/demo-yoga.jpg",
@@ -77,13 +77,13 @@
         "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/eduma\/images\/demo-elegant.jpg",
         "category": "popular"
     },
-    "demo-02": {
+    "demo-coursera": {
         "title": "Coursera",
         "demo_url": "https:\/\/eduma.thimpress.com\/demo-coursera\/",
         "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/eduma\/images\/demo-coursera.jpg",
         "category": "academy"
     },
-    "demo-03": {
+    "demo-online-school": {
         "title": "Online School",
         "demo_url": "https:\/\/eduma.thimpress.com\/demo-online-school\/",
         "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/eduma\/images\/demo-online-school.jpg",
