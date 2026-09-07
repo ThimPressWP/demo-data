@@ -187,7 +187,7 @@
     },
     "demo-rtl": {
         "title": "RTL",
-        "demo_url": "\/?d=rtl",
+        "demo_url": "https:\/\/eduma.thimpress.com\/demo-main\/?d=rtl",
         "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/eduma\/images\/demo-rtl.jpg",
         "category": "multi-Language"
     },
