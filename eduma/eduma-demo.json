@@ -173,12 +173,6 @@
         "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/eduma\/images\/demo-tutor-lms.jpg",
         "category": "popular"
     },
-    "demo-rtl": {
-        "title": "RTL",
-        "demo_url": "https:\/\/eduma.thimpress.com\/demo-rtl\/",
-        "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/eduma\/images\/demo-rtl.jpg",
-        "category": "multi-Language"
-    },
     "demo-one-instructor": {
         "title": "One Instructor",
         "demo_url": "https:\/\/eduma.thimpress.com\/demo-one-instructor\/",
@@ -190,6 +184,12 @@
         "demo_url": "https:\/\/eduma.thimpress.com\/demo-restaurant\/",
         "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/eduma\/images\/demo-restaurant.jpg",
         "category": "popular"
+    },
+    "demo-rtl": {
+        "title": "RTL",
+        "demo_url": "\/?d=rtl",
+        "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/eduma\/images\/demo-rtl.jpg",
+        "category": "multi-Language"
     },
     "demo-wpml": {
         "title": "Multilingual Eduma",
