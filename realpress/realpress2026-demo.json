@@ -1,0 +1,80 @@
+{
+    "demo-main-2026": {
+        "title": "Demo Main 2026",
+        "demo_url": "https:\/\/realpress.thimpress.com\/demo-2026",
+        "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/realpress\/images\/demo-main-2026.jpg"
+    },
+    "demo-classic-realty": {
+        "title": "Demo Classic Realty",
+        "demo_url": "https:\/\/realpress.thimpress.com\/demo-2026\/classic-realty",
+        "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/realpress\/images\/demo-main.png"
+    },
+    "demo-local-realty": {
+        "title": "Demo Local Realty",
+        "demo_url": "https:\/\/realpress.thimpress.com\/demo-2026\/local-realty",
+        "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/realpress\/images\/demo-local-realty.jpg"
+    },
+    "demo-luxury-living": {
+        "title": "Demo Luxury Living",
+        "demo_url": "https:\/\/realpress.thimpress.com\/demo-2026\/luxury-living",
+        "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/realpress\/images\/demo-luxury-living.jpg"
+    },
+    "demo-classic": {
+        "title": "Demo Agency",
+        "demo_url": "https:\/\/realpress.thimpress.com\/demo-agency",
+        "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/realpress\/images\/demo-agency.png"
+    },
+    "demo-1": {
+        "title": "Demo Property Hub",
+        "demo_url": "https:\/\/realpress.thimpress.com\/demo-1",
+        "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/realpress\/images\/demo-01.png"
+    },
+    "demo-3": {
+        "title": "Demo Modern Living",
+        "demo_url": "https:\/\/realpress.thimpress.com\/demo-3",
+        "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/realpress\/images\/demo-03.png"
+    },
+    "demo-5": {
+        "title": "Demo Vacation Rentals",
+        "demo_url": "https:\/\/realpress.thimpress.com\/demo-5",
+        "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/realpress\/images\/demo-05.png"
+    },
+    "demo-6": {
+        "title": "Demo Urban Realty",
+        "demo_url": "https:\/\/realpress.thimpress.com\/demo-6",
+        "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/realpress\/images\/demo-06.png"
+    },
+    "demo-7": {
+        "title": "Demo Global Homes",
+        "demo_url": "https:\/\/realpress.thimpress.com\/demo-7",
+        "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/realpress\/images\/demo-07.png"
+    },
+    "demo-8": {
+        "title": "Demo Property Central",
+        "demo_url": "https:\/\/realpress.thimpress.com\/demo-8",
+        "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/realpress\/images\/demo-08.png"
+    },
+    "demo-9": {
+        "title": "Demo Prime Estate",
+        "demo_url": "https:\/\/realpress.thimpress.com\/demo-2\/home-2\/",
+        "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/realpress\/images\/demo-09.png"
+    },
+    "demo-single-property": {
+        "title": "Demo Single Property",
+        "demo_url": "https:\/\/realpress.thimpress.com\/single-property\/",
+        "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/realpress\/images\/demo-single-property.png",
+        "category": "One Page"
+    },
+    "demo-single-agent": {
+        "title": "Demo Single Agent",
+        "demo_url": "https:\/\/realpress.thimpress.com\/single-agent\/",
+        "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/realpress\/images\/demo-single-agent.png",
+        "category": "One Page"
+    },
+    "demo-rtl": {
+        "title": "Demo RTL",
+        "demo_url": "https:\/\/realpress.thimpress.com\/demo-rtl",
+        "thumbnail_url": "https:\/\/thimpresswp.github.io\/demo-data\/realpress\/images\/demo-rtl.png",
+        "category": "RTL"
+    }
+}
