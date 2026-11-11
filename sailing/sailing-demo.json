@@ -1,16 +1,22 @@
 {
-   "demo-12": {
+    "demo-winter-resort": {
+        "title": "Winter Resort",
+        "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/sailing\/images\/demo-winter-resort.jpg",
+        "label": "New",
+        "demo_url": "http:\/\/sailing.thimpress.com\/demo-winter-resort"
+    },
+    "demo-12": {
         "title": "Mountain Hotel",
         "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/sailing\/images\/demo-12.png",
-	"label": "New",
+        "label": "New",
         "demo_url": "http:\/\/sailing.thimpress.com\/demo-mountain-hotel"
-    }, 
-"demo-11": {
+    },
+    "demo-11": {
         "title": "Beach Resort & Spa",
         "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/sailing\/images\/demo-11.jpg",
         "label": "New",
         "demo_url": "http:\/\/sailing.thimpress.com\/demo-beach-resort-spa"
-    },  
+    },
     "demo-09": {
         "title": "Island Retreat",
         "thumbnail_url": "https:\/\/raw.githubusercontent.com\/ThimPressWP\/demo-data\/master\/sailing\/images\/demo-10.jpg",
